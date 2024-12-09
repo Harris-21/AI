@@ -1,0 +1,3001 @@
+type,genre,release_year,rating,duration,duration_type,country
+TV Show,Comedy,1955,PG,3,Seasons,Japan
+TV Show,Horror,2020,G,3,Seasons,India
+TV Show,Action,1966,TV-PG,140,min,United States
+Movie,Thriller,2011,PG-13,3,Seasons,Canada
+TV Show,Romance,1959,TV-14,172,min,India
+Movie,Action,2007,PG-13,3,Seasons,Japan
+Movie,Romance,1977,TV-14,68,min,United States
+Movie,Comedy,1971,TV-PG,104,min,Japan
+Movie,Drama,2000,PG-13,2,Seasons,Canada
+Movie,Thriller,1975,TV-MA,1,Seasons,India
+TV Show,Romance,2021,TV-14,139,min,Australia
+TV Show,Action,1986,PG-13,85,min,Germany
+Movie,Documentary,1997,R,129,min,Australia
+Movie,Sci-Fi,1986,TV-PG,129,min,Germany
+TV Show,Documentary,1994,PG-13,3,Seasons,Canada
+TV Show,Horror,1996,TV-MA,107,min,Japan
+Movie,Comedy,1969,TV-PG,1,Seasons,United Kingdom
+TV Show,Drama,1983,G,147,min,South Korea
+Movie,Romance,2011,G,1,Seasons,United Kingdom
+Movie,Romance,2023,R,1,Seasons,United Kingdom
+TV Show,Sci-Fi,1993,G,120,min,Australia
+TV Show,Drama,1968,R,2,Seasons,Germany
+Movie,Drama,2023,TV-PG,3,Seasons,United Kingdom
+Movie,Comedy,1965,R,115,min,United States
+TV Show,Sci-Fi,1991,TV-MA,1,Seasons,Australia
+TV Show,Romance,1997,R,2,Seasons,United States
+Movie,Drama,2004,TV-PG,164,min,Japan
+TV Show,Horror,1952,PG-13,175,min,United States
+Movie,Thriller,1969,TV-MA,68,min,India
+TV Show,Comedy,1955,PG,78,min,Canada
+Movie,Horror,1992,TV-MA,2,Seasons,Australia
+TV Show,Horror,1989,TV-MA,2,Seasons,United States
+Movie,Documentary,1975,TV-MA,3,Seasons,Japan
+TV Show,Thriller,1996,TV-14,1,Seasons,Canada
+Movie,Thriller,2019,TV-PG,2,Seasons,Canada
+Movie,Documentary,1999,PG-13,88,min,United States
+Movie,Comedy,1964,TV-PG,133,min,United Kingdom
+Movie,Action,2003,TV-MA,156,min,Australia
+TV Show,Documentary,2000,PG,3,Seasons,Japan
+Movie,Comedy,1989,TV-14,2,Seasons,United Kingdom
+Movie,Documentary,1971,PG-13,1,Seasons,Germany
+TV Show,Horror,1981,TV-PG,2,Seasons,Japan
+Movie,Horror,2012,TV-MA,141,min,India
+Movie,Comedy,1955,G,1,Seasons,Germany
+TV Show,Comedy,1959,TV-PG,76,min,United States
+TV Show,Sci-Fi,1961,TV-MA,2,Seasons,Australia
+TV Show,Thriller,1996,G,130,min,United States
+TV Show,Thriller,1967,R,67,min,Germany
+TV Show,Documentary,1973,PG,3,Seasons,United Kingdom
+TV Show,Comedy,1965,TV-PG,2,Seasons,India
+TV Show,Drama,1969,G,3,Seasons,Japan
+Movie,Documentary,1980,PG,140,min,Japan
+TV Show,Drama,1989,R,2,Seasons,India
+TV Show,Documentary,1964,PG,3,Seasons,Germany
+TV Show,Thriller,2018,TV-MA,128,min,Japan
+TV Show,Horror,1952,PG,97,min,South Korea
+Movie,Drama,2016,TV-14,2,Seasons,Germany
+TV Show,Horror,1965,TV-PG,1,Seasons,India
+Movie,Romance,2020,R,3,Seasons,Germany
+Movie,Documentary,2016,R,2,Seasons,South Korea
+TV Show,Romance,2014,TV-PG,3,Seasons,Canada
+TV Show,Thriller,2005,PG,2,Seasons,United Kingdom
+TV Show,Comedy,1970,PG-13,169,min,India
+Movie,Romance,1961,PG-13,3,Seasons,United Kingdom
+Movie,Romance,1960,TV-PG,137,min,Australia
+TV Show,Comedy,1968,R,3,Seasons,Japan
+Movie,Documentary,1952,TV-MA,3,Seasons,United Kingdom
+TV Show,Comedy,2001,TV-14,166,min,Japan
+TV Show,Action,2015,TV-PG,2,Seasons,Germany
+TV Show,Sci-Fi,1981,TV-MA,66,min,United States
+Movie,Horror,2018,TV-14,89,min,Germany
+Movie,Romance,1965,PG-13,140,min,Germany
+Movie,Thriller,2000,TV-PG,174,min,India
+TV Show,Sci-Fi,1954,TV-MA,175,min,United States
+TV Show,Horror,1967,PG-13,1,Seasons,India
+Movie,Action,1962,G,72,min,United Kingdom
+Movie,Comedy,1995,PG,147,min,Japan
+TV Show,Drama,1954,R,1,Seasons,Germany
+TV Show,Action,2006,PG-13,174,min,United States
+TV Show,Drama,1975,PG-13,138,min,United States
+TV Show,Drama,1974,TV-14,3,Seasons,Japan
+TV Show,Comedy,1963,R,143,min,Australia
+Movie,Sci-Fi,1962,R,86,min,Australia
+Movie,Action,1992,R,168,min,United States
+TV Show,Sci-Fi,1950,TV-14,3,Seasons,India
+TV Show,Drama,2002,TV-MA,2,Seasons,United States
+TV Show,Documentary,1988,TV-MA,108,min,Germany
+TV Show,Thriller,1961,TV-14,86,min,United States
+Movie,Documentary,1951,R,3,Seasons,United Kingdom
+TV Show,Drama,1970,PG-13,3,Seasons,United Kingdom
+Movie,Drama,1971,R,109,min,Germany
+TV Show,Sci-Fi,1989,TV-PG,133,min,Germany
+Movie,Thriller,1971,PG,3,Seasons,Japan
+TV Show,Thriller,1955,TV-PG,3,Seasons,United Kingdom
+Movie,Documentary,1988,G,89,min,Canada
+TV Show,Action,2005,TV-14,2,Seasons,United States
+Movie,Romance,1978,TV-MA,1,Seasons,Germany
+TV Show,Romance,2007,TV-PG,2,Seasons,India
+Movie,Action,1978,PG-13,124,min,Australia
+TV Show,Drama,1991,G,84,min,United Kingdom
+TV Show,Sci-Fi,2006,TV-14,2,Seasons,Australia
+TV Show,Horror,2016,R,107,min,India
+TV Show,Action,1978,PG,106,min,India
+TV Show,Action,1952,TV-PG,153,min,Germany
+Movie,Thriller,1972,TV-PG,157,min,United Kingdom
+TV Show,Romance,1967,PG-13,2,Seasons,United Kingdom
+TV Show,Action,2005,TV-14,2,Seasons,South Korea
+Movie,Drama,1985,TV-MA,2,Seasons,South Korea
+TV Show,Drama,1966,TV-PG,1,Seasons,South Korea
+Movie,Documentary,1963,PG-13,3,Seasons,United Kingdom
+Movie,Action,1974,TV-PG,2,Seasons,United States
+Movie,Documentary,1971,TV-14,138,min,Japan
+Movie,Drama,2019,PG,180,min,Canada
+TV Show,Action,2005,R,3,Seasons,Germany
+TV Show,Thriller,2010,PG-13,90,min,Australia
+Movie,Thriller,2007,PG-13,159,min,United States
+Movie,Romance,1963,R,2,Seasons,Australia
+TV Show,Romance,2018,R,3,Seasons,United Kingdom
+TV Show,Drama,2003,TV-PG,3,Seasons,Australia
+Movie,Romance,1974,PG,74,min,South Korea
+TV Show,Thriller,2008,TV-MA,66,min,United Kingdom
+Movie,Sci-Fi,1983,G,2,Seasons,India
+TV Show,Documentary,1959,G,1,Seasons,India
+Movie,Comedy,1982,TV-14,3,Seasons,Canada
+Movie,Horror,1977,TV-14,2,Seasons,Canada
+TV Show,Comedy,1953,R,2,Seasons,India
+Movie,Comedy,2010,PG-13,3,Seasons,South Korea
+TV Show,Thriller,1998,TV-PG,1,Seasons,United Kingdom
+Movie,Drama,1951,PG,3,Seasons,United States
+Movie,Drama,1963,PG-13,2,Seasons,United Kingdom
+TV Show,Thriller,1979,PG,3,Seasons,Canada
+Movie,Comedy,1963,TV-PG,2,Seasons,Germany
+TV Show,Comedy,2006,TV-14,1,Seasons,Australia
+Movie,Action,1970,R,2,Seasons,Canada
+TV Show,Comedy,1963,TV-PG,2,Seasons,United Kingdom
+Movie,Romance,2005,G,65,min,Japan
+TV Show,Comedy,1984,TV-MA,1,Seasons,Australia
+Movie,Romance,1998,R,79,min,United States
+Movie,Drama,1976,G,73,min,South Korea
+TV Show,Drama,1991,PG,3,Seasons,Japan
+TV Show,Sci-Fi,2012,G,3,Seasons,Australia
+Movie,Comedy,1977,G,103,min,South Korea
+TV Show,Sci-Fi,1956,R,1,Seasons,Japan
+TV Show,Horror,1985,TV-14,65,min,India
+TV Show,Horror,1989,TV-14,3,Seasons,Germany
+TV Show,Comedy,1960,TV-PG,1,Seasons,Australia
+TV Show,Sci-Fi,1955,G,165,min,Australia
+TV Show,Comedy,1990,PG-13,1,Seasons,Canada
+Movie,Thriller,1985,PG-13,2,Seasons,Japan
+TV Show,Thriller,1950,PG,179,min,Australia
+TV Show,Horror,1993,R,113,min,United Kingdom
+TV Show,Thriller,1996,R,3,Seasons,Germany
+TV Show,Horror,2022,R,1,Seasons,Japan
+TV Show,Drama,1994,TV-PG,1,Seasons,Germany
+TV Show,Documentary,2005,PG,3,Seasons,Germany
+Movie,Sci-Fi,2012,PG,166,min,United Kingdom
+Movie,Thriller,1968,PG,91,min,Australia
+Movie,Documentary,1979,R,119,min,United Kingdom
+Movie,Drama,1959,G,164,min,Australia
+Movie,Documentary,1979,PG-13,3,Seasons,Canada
+TV Show,Drama,1956,TV-14,169,min,Canada
+Movie,Romance,2012,PG,104,min,United Kingdom
+TV Show,Horror,2001,TV-MA,155,min,United Kingdom
+Movie,Drama,1960,PG-13,135,min,United Kingdom
+TV Show,Comedy,1983,PG,70,min,Japan
+TV Show,Romance,1986,TV-MA,177,min,United Kingdom
+TV Show,Action,1961,TV-MA,109,min,India
+TV Show,Romance,1978,R,1,Seasons,India
+TV Show,Documentary,2011,TV-14,1,Seasons,Germany
+TV Show,Comedy,1958,R,179,min,United States
+Movie,Thriller,1993,R,126,min,Germany
+TV Show,Horror,1981,TV-PG,3,Seasons,Germany
+TV Show,Drama,2002,TV-MA,2,Seasons,Australia
+TV Show,Documentary,1952,PG-13,3,Seasons,United Kingdom
+Movie,Horror,1964,TV-14,2,Seasons,United States
+TV Show,Comedy,2014,TV-14,158,min,United States
+Movie,Documentary,1951,PG,3,Seasons,Canada
+TV Show,Comedy,2018,PG-13,1,Seasons,South Korea
+TV Show,Sci-Fi,1956,PG,1,Seasons,Germany
+TV Show,Documentary,1959,TV-14,3,Seasons,United Kingdom
+Movie,Action,1974,PG-13,122,min,United States
+Movie,Drama,1972,TV-14,1,Seasons,Germany
+TV Show,Comedy,1971,R,3,Seasons,Germany
+Movie,Documentary,1998,TV-PG,122,min,Japan
+TV Show,Documentary,1967,PG-13,3,Seasons,India
+TV Show,Horror,1967,G,3,Seasons,Japan
+TV Show,Comedy,1995,PG-13,127,min,South Korea
+Movie,Sci-Fi,2002,PG,2,Seasons,Japan
+TV Show,Comedy,2015,G,2,Seasons,United Kingdom
+Movie,Thriller,2017,TV-14,2,Seasons,Canada
+Movie,Documentary,2018,TV-14,2,Seasons,South Korea
+Movie,Sci-Fi,1965,TV-PG,3,Seasons,United Kingdom
+TV Show,Sci-Fi,1960,G,3,Seasons,Japan
+TV Show,Romance,1958,TV-MA,173,min,Germany
+Movie,Romance,2000,G,2,Seasons,South Korea
+Movie,Comedy,1969,TV-MA,89,min,Australia
+Movie,Documentary,1962,PG-13,1,Seasons,Canada
+Movie,Drama,1967,R,106,min,Germany
+TV Show,Documentary,1964,R,2,Seasons,United Kingdom
+TV Show,Drama,1969,G,66,min,Germany
+Movie,Documentary,2016,R,1,Seasons,Japan
+TV Show,Sci-Fi,1969,G,169,min,United Kingdom
+TV Show,Action,1988,PG-13,2,Seasons,Canada
+Movie,Sci-Fi,1954,TV-PG,174,min,South Korea
+TV Show,Action,2016,TV-14,109,min,Canada
+Movie,Romance,2000,R,1,Seasons,Australia
+TV Show,Thriller,2015,TV-PG,3,Seasons,United States
+TV Show,Romance,2017,PG-13,125,min,Germany
+Movie,Sci-Fi,1968,PG-13,2,Seasons,United Kingdom
+TV Show,Romance,1979,TV-PG,3,Seasons,United States
+Movie,Thriller,2017,G,147,min,South Korea
+TV Show,Documentary,1988,R,131,min,Germany
+Movie,Sci-Fi,1951,TV-14,175,min,Japan
+TV Show,Documentary,2003,PG,1,Seasons,United States
+Movie,Drama,1974,R,3,Seasons,Canada
+TV Show,Drama,1986,TV-14,1,Seasons,Germany
+Movie,Sci-Fi,1998,R,78,min,United States
+Movie,Documentary,1971,TV-14,1,Seasons,Japan
+Movie,Thriller,1964,PG,113,min,Australia
+Movie,Comedy,1990,R,165,min,Germany
+Movie,Thriller,2017,TV-MA,3,Seasons,South Korea
+TV Show,Comedy,1968,PG,161,min,India
+TV Show,Drama,1968,G,128,min,Canada
+TV Show,Documentary,1973,G,2,Seasons,United Kingdom
+Movie,Action,1987,G,114,min,United States
+Movie,Documentary,1960,TV-PG,124,min,United Kingdom
+TV Show,Comedy,1964,TV-MA,159,min,South Korea
+TV Show,Comedy,1960,TV-PG,3,Seasons,United Kingdom
+Movie,Documentary,1984,PG,70,min,India
+TV Show,Horror,2021,TV-MA,2,Seasons,Australia
+Movie,Thriller,1963,G,1,Seasons,Japan
+Movie,Romance,2004,TV-14,178,min,India
+Movie,Documentary,2008,TV-MA,3,Seasons,Japan
+Movie,Romance,1971,TV-PG,158,min,Germany
+TV Show,Drama,1970,G,163,min,India
+Movie,Horror,2005,G,3,Seasons,Germany
+Movie,Documentary,1988,PG,153,min,South Korea
+TV Show,Comedy,1957,R,2,Seasons,United Kingdom
+TV Show,Romance,2014,G,132,min,South Korea
+TV Show,Romance,2001,TV-14,110,min,South Korea
+TV Show,Sci-Fi,1991,PG-13,1,Seasons,Australia
+TV Show,Drama,1985,TV-PG,2,Seasons,Australia
+Movie,Action,1982,TV-MA,127,min,Germany
+TV Show,Thriller,1978,R,111,min,United Kingdom
+Movie,Romance,1959,TV-MA,122,min,Japan
+TV Show,Action,2015,TV-14,3,Seasons,United Kingdom
+TV Show,Comedy,1955,TV-MA,3,Seasons,Germany
+Movie,Romance,1994,TV-PG,1,Seasons,Germany
+Movie,Action,1979,TV-MA,81,min,Japan
+Movie,Romance,2009,PG-13,166,min,United States
+TV Show,Comedy,1952,TV-MA,89,min,Canada
+TV Show,Sci-Fi,2016,PG,2,Seasons,Germany
+Movie,Comedy,1959,PG,151,min,United Kingdom
+Movie,Thriller,1951,TV-PG,3,Seasons,United Kingdom
+TV Show,Action,1956,R,145,min,Canada
+TV Show,Drama,1955,TV-MA,92,min,Australia
+Movie,Sci-Fi,1991,G,2,Seasons,India
+Movie,Comedy,2018,TV-MA,1,Seasons,Australia
+TV Show,Romance,1984,TV-14,71,min,Japan
+TV Show,Sci-Fi,1986,PG,139,min,India
+Movie,Romance,1970,TV-14,140,min,South Korea
+TV Show,Action,1977,R,77,min,South Korea
+Movie,Horror,1972,TV-PG,3,Seasons,Germany
+Movie,Comedy,1951,PG-13,3,Seasons,South Korea
+Movie,Romance,1968,TV-PG,72,min,Australia
+TV Show,Drama,1950,TV-14,100,min,South Korea
+TV Show,Action,1954,PG-13,2,Seasons,Canada
+Movie,Horror,2019,R,3,Seasons,Australia
+TV Show,Comedy,2018,TV-MA,78,min,Canada
+Movie,Romance,1993,PG-13,140,min,United States
+TV Show,Action,1994,PG,89,min,Germany
+TV Show,Comedy,1994,R,1,Seasons,United Kingdom
+Movie,Comedy,1988,TV-PG,1,Seasons,Canada
+Movie,Drama,1958,TV-PG,134,min,India
+Movie,Horror,2009,G,126,min,India
+TV Show,Action,1962,PG,1,Seasons,South Korea
+TV Show,Romance,1959,R,92,min,Canada
+TV Show,Romance,1967,PG,2,Seasons,India
+Movie,Horror,1977,R,3,Seasons,India
+TV Show,Drama,2005,PG-13,176,min,Australia
+TV Show,Action,2019,R,2,Seasons,Germany
+TV Show,Horror,2014,PG-13,171,min,United States
+TV Show,Horror,1984,TV-MA,150,min,Canada
+TV Show,Comedy,2008,G,2,Seasons,United Kingdom
+TV Show,Horror,2009,TV-PG,155,min,South Korea
+TV Show,Drama,2001,TV-14,2,Seasons,United States
+TV Show,Romance,2015,G,1,Seasons,Japan
+TV Show,Horror,1971,TV-MA,100,min,South Korea
+TV Show,Horror,1994,PG,94,min,Germany
+TV Show,Sci-Fi,1991,R,104,min,South Korea
+Movie,Drama,1954,R,2,Seasons,India
+TV Show,Sci-Fi,2004,G,109,min,Australia
+TV Show,Comedy,2010,PG,68,min,Canada
+TV Show,Thriller,2006,R,3,Seasons,South Korea
+TV Show,Horror,2000,R,107,min,India
+TV Show,Sci-Fi,2016,TV-14,3,Seasons,United Kingdom
+TV Show,Horror,1987,G,61,min,Japan
+Movie,Romance,1997,PG,3,Seasons,India
+TV Show,Romance,1998,G,1,Seasons,South Korea
+TV Show,Drama,2021,G,1,Seasons,South Korea
+TV Show,Action,1970,R,2,Seasons,Japan
+TV Show,Action,1974,TV-PG,1,Seasons,Canada
+TV Show,Documentary,1960,R,2,Seasons,Australia
+Movie,Documentary,2018,PG,3,Seasons,Germany
+TV Show,Documentary,2002,PG,111,min,Japan
+TV Show,Romance,1961,TV-14,67,min,United States
+TV Show,Thriller,1970,PG,1,Seasons,United Kingdom
+TV Show,Romance,2008,TV-MA,3,Seasons,Germany
+TV Show,Romance,1995,PG,111,min,Germany
+Movie,Comedy,1958,TV-PG,89,min,United Kingdom
+Movie,Action,1979,R,100,min,Australia
+TV Show,Drama,2021,TV-14,73,min,Germany
+Movie,Romance,1990,TV-MA,2,Seasons,Canada
+Movie,Documentary,1979,TV-14,1,Seasons,Germany
+TV Show,Documentary,1983,TV-MA,65,min,South Korea
+Movie,Comedy,2004,R,3,Seasons,Japan
+TV Show,Horror,1954,TV-14,71,min,United States
+TV Show,Sci-Fi,1956,TV-PG,70,min,South Korea
+Movie,Comedy,2006,G,1,Seasons,Germany
+TV Show,Documentary,2013,TV-PG,92,min,India
+Movie,Horror,1967,TV-14,124,min,Australia
+Movie,Romance,1988,TV-PG,178,min,United Kingdom
+Movie,Horror,1982,TV-14,116,min,South Korea
+TV Show,Drama,2021,R,173,min,Canada
+TV Show,Thriller,1991,PG-13,88,min,Japan
+Movie,Action,2001,TV-MA,76,min,United Kingdom
+Movie,Comedy,2014,TV-PG,3,Seasons,Canada
+TV Show,Action,2015,TV-14,96,min,Australia
+Movie,Comedy,2013,R,168,min,United Kingdom
+TV Show,Romance,1995,G,139,min,Germany
+TV Show,Romance,1956,TV-PG,3,Seasons,Canada
+TV Show,Horror,1955,PG-13,116,min,Canada
+Movie,Documentary,1954,PG,2,Seasons,Australia
+Movie,Thriller,1993,PG-13,3,Seasons,Germany
+Movie,Documentary,2005,PG-13,3,Seasons,United States
+Movie,Drama,1989,TV-PG,3,Seasons,Canada
+Movie,Drama,1957,TV-MA,2,Seasons,Canada
+TV Show,Thriller,1969,TV-MA,1,Seasons,United Kingdom
+TV Show,Sci-Fi,1957,TV-PG,3,Seasons,United States
+Movie,Drama,2003,R,2,Seasons,Germany
+TV Show,Thriller,1976,TV-14,116,min,Germany
+Movie,Thriller,1973,PG-13,94,min,Australia
+Movie,Drama,1969,TV-MA,1,Seasons,Australia
+TV Show,Action,1979,TV-PG,2,Seasons,India
+Movie,Comedy,2013,PG-13,115,min,United Kingdom
+TV Show,Documentary,1997,TV-MA,65,min,United Kingdom
+Movie,Thriller,1992,G,1,Seasons,United Kingdom
+TV Show,Drama,1970,G,151,min,South Korea
+Movie,Romance,2008,TV-MA,1,Seasons,United States
+TV Show,Sci-Fi,2020,TV-MA,1,Seasons,Australia
+Movie,Thriller,1953,PG,1,Seasons,India
+TV Show,Documentary,2010,TV-PG,76,min,Germany
+TV Show,Drama,1951,G,3,Seasons,United States
+TV Show,Documentary,1966,TV-PG,107,min,Germany
+TV Show,Thriller,1990,TV-PG,1,Seasons,Australia
+Movie,Romance,2007,TV-14,3,Seasons,South Korea
+Movie,Thriller,1983,PG,131,min,South Korea
+Movie,Action,1953,TV-14,68,min,Canada
+TV Show,Romance,1950,G,3,Seasons,Japan
+Movie,Comedy,1979,TV-14,1,Seasons,South Korea
+TV Show,Drama,1998,PG,131,min,Japan
+Movie,Comedy,1953,R,1,Seasons,Australia
+TV Show,Romance,1981,TV-14,3,Seasons,South Korea
+TV Show,Thriller,2003,PG,1,Seasons,Australia
+Movie,Thriller,1966,PG-13,153,min,Germany
+TV Show,Drama,1958,TV-PG,1,Seasons,Canada
+Movie,Comedy,1969,PG-13,90,min,India
+TV Show,Thriller,2012,TV-14,65,min,Japan
+Movie,Documentary,1982,R,179,min,Germany
+Movie,Thriller,2009,R,131,min,Canada
+Movie,Romance,1950,TV-14,148,min,South Korea
+TV Show,Drama,1988,PG,3,Seasons,India
+TV Show,Drama,1978,TV-14,70,min,Australia
+TV Show,Horror,2007,R,158,min,United Kingdom
+Movie,Action,1989,G,121,min,India
+Movie,Drama,1968,PG,101,min,Canada
+Movie,Romance,1999,TV-MA,2,Seasons,Germany
+TV Show,Documentary,2010,R,81,min,India
+TV Show,Documentary,1983,R,107,min,Germany
+Movie,Thriller,2004,TV-14,153,min,Germany
+Movie,Documentary,1990,PG-13,3,Seasons,United Kingdom
+TV Show,Action,1970,PG,104,min,South Korea
+Movie,Drama,1964,R,1,Seasons,Canada
+TV Show,Romance,1979,PG,102,min,United States
+TV Show,Documentary,1980,G,143,min,South Korea
+Movie,Action,2009,R,130,min,United Kingdom
+TV Show,Documentary,1967,TV-14,1,Seasons,United Kingdom
+TV Show,Documentary,1968,G,96,min,Canada
+Movie,Comedy,1961,TV-MA,1,Seasons,Australia
+TV Show,Drama,1997,TV-14,2,Seasons,Canada
+Movie,Horror,1979,R,3,Seasons,United States
+Movie,Action,1962,PG-13,87,min,Japan
+Movie,Comedy,1993,R,2,Seasons,South Korea
+Movie,Romance,2009,TV-MA,92,min,United States
+TV Show,Horror,2014,TV-MA,77,min,India
+TV Show,Horror,2010,TV-MA,149,min,Australia
+Movie,Drama,2005,TV-14,172,min,Canada
+TV Show,Thriller,1958,G,2,Seasons,United Kingdom
+TV Show,Action,1997,TV-PG,2,Seasons,South Korea
+Movie,Documentary,2014,TV-MA,3,Seasons,Canada
+Movie,Sci-Fi,1967,TV-14,1,Seasons,Germany
+TV Show,Action,1973,G,73,min,United Kingdom
+TV Show,Drama,1988,TV-MA,1,Seasons,India
+Movie,Comedy,2002,TV-14,146,min,United States
+Movie,Sci-Fi,1999,G,65,min,Australia
+Movie,Drama,1995,PG-13,174,min,Japan
+Movie,Action,1981,TV-MA,95,min,Germany
+Movie,Drama,2016,G,3,Seasons,Australia
+Movie,Thriller,2023,PG-13,63,min,India
+Movie,Documentary,1984,TV-14,178,min,United Kingdom
+Movie,Romance,1950,TV-MA,2,Seasons,Japan
+Movie,Drama,1968,TV-MA,63,min,South Korea
+Movie,Comedy,1999,G,160,min,India
+Movie,Thriller,1993,TV-14,3,Seasons,United States
+Movie,Thriller,1973,TV-PG,1,Seasons,Australia
+TV Show,Drama,1964,TV-PG,88,min,Canada
+TV Show,Thriller,2011,TV-MA,3,Seasons,United Kingdom
+TV Show,Sci-Fi,2020,TV-MA,108,min,Australia
+TV Show,Action,2010,PG-13,3,Seasons,Germany
+TV Show,Horror,1964,R,128,min,Japan
+TV Show,Comedy,1987,PG-13,3,Seasons,Australia
+Movie,Horror,1968,R,172,min,South Korea
+Movie,Horror,2000,G,3,Seasons,Australia
+TV Show,Comedy,2003,TV-PG,60,min,Canada
+Movie,Thriller,2019,TV-PG,2,Seasons,United Kingdom
+TV Show,Action,2008,PG-13,2,Seasons,Australia
+TV Show,Drama,1981,TV-14,2,Seasons,South Korea
+Movie,Action,1985,PG,86,min,Japan
+Movie,Horror,1970,TV-PG,90,min,United States
+TV Show,Horror,1956,TV-MA,1,Seasons,Germany
+Movie,Comedy,2005,G,1,Seasons,United States
+Movie,Action,1999,TV-PG,98,min,Australia
+TV Show,Comedy,1979,PG,3,Seasons,India
+TV Show,Thriller,1970,TV-14,2,Seasons,United Kingdom
+TV Show,Horror,1984,PG-13,1,Seasons,Germany
+Movie,Comedy,1990,TV-PG,3,Seasons,South Korea
+TV Show,Action,1987,PG-13,2,Seasons,Canada
+TV Show,Thriller,1964,R,114,min,Japan
+TV Show,Thriller,1966,PG-13,3,Seasons,Canada
+TV Show,Comedy,1954,TV-PG,3,Seasons,Germany
+TV Show,Action,2005,TV-PG,1,Seasons,United States
+TV Show,Drama,1950,G,2,Seasons,United States
+TV Show,Thriller,1986,TV-14,3,Seasons,United Kingdom
+TV Show,Horror,1972,G,90,min,United Kingdom
+TV Show,Thriller,1980,PG,76,min,Germany
+TV Show,Horror,1983,R,95,min,India
+TV Show,Thriller,1966,TV-MA,75,min,Germany
+Movie,Thriller,1954,PG,152,min,United Kingdom
+TV Show,Comedy,1989,TV-MA,116,min,Australia
+Movie,Drama,2007,TV-14,3,Seasons,India
+TV Show,Comedy,1950,TV-PG,1,Seasons,Germany
+TV Show,Thriller,1972,PG,3,Seasons,Canada
+TV Show,Thriller,1975,PG-13,3,Seasons,Germany
+TV Show,Thriller,1957,PG-13,1,Seasons,United States
+TV Show,Documentary,2014,G,102,min,Australia
+TV Show,Sci-Fi,1975,PG,1,Seasons,South Korea
+Movie,Sci-Fi,1990,TV-PG,85,min,South Korea
+Movie,Sci-Fi,2021,R,3,Seasons,United States
+TV Show,Drama,2022,PG-13,164,min,South Korea
+TV Show,Comedy,2002,PG,173,min,India
+TV Show,Comedy,1983,TV-14,136,min,United Kingdom
+Movie,Drama,1988,PG,3,Seasons,United Kingdom
+Movie,Romance,1979,TV-14,1,Seasons,Australia
+Movie,Documentary,2013,TV-MA,156,min,Australia
+Movie,Comedy,2019,TV-MA,3,Seasons,United Kingdom
+Movie,Sci-Fi,2000,PG-13,3,Seasons,South Korea
+Movie,Comedy,2010,TV-14,2,Seasons,Japan
+TV Show,Romance,2004,TV-PG,123,min,United Kingdom
+TV Show,Horror,1952,R,1,Seasons,United States
+Movie,Thriller,2014,TV-MA,1,Seasons,Canada
+Movie,Thriller,1996,G,1,Seasons,Canada
+Movie,Horror,2007,TV-PG,3,Seasons,India
+TV Show,Horror,2016,TV-14,113,min,United Kingdom
+TV Show,Horror,2015,PG-13,1,Seasons,India
+TV Show,Thriller,1998,PG-13,76,min,United States
+TV Show,Romance,1976,PG,3,Seasons,Japan
+TV Show,Action,1983,TV-14,168,min,Canada
+TV Show,Comedy,1974,R,66,min,India
+Movie,Comedy,1956,R,118,min,Germany
+Movie,Sci-Fi,2008,TV-MA,176,min,Japan
+TV Show,Action,1957,TV-MA,170,min,United Kingdom
+TV Show,Thriller,1994,R,3,Seasons,Japan
+Movie,Horror,1979,TV-14,2,Seasons,India
+Movie,Drama,2014,PG,3,Seasons,Canada
+Movie,Drama,1988,G,3,Seasons,Canada
+TV Show,Drama,1982,TV-PG,67,min,Australia
+Movie,Romance,1956,TV-14,1,Seasons,India
+TV Show,Documentary,1974,G,97,min,Germany
+TV Show,Thriller,1953,TV-14,2,Seasons,India
+TV Show,Documentary,1969,TV-MA,65,min,Japan
+TV Show,Romance,1950,PG,1,Seasons,United Kingdom
+TV Show,Drama,1989,PG,1,Seasons,United States
+Movie,Thriller,1998,PG,171,min,Japan
+Movie,Romance,2008,TV-MA,3,Seasons,Germany
+TV Show,Sci-Fi,1990,TV-14,1,Seasons,Australia
+Movie,Horror,1983,TV-14,3,Seasons,India
+Movie,Comedy,1996,TV-PG,3,Seasons,Japan
+TV Show,Comedy,1983,G,3,Seasons,Canada
+TV Show,Documentary,1950,TV-MA,2,Seasons,Germany
+TV Show,Horror,1950,G,1,Seasons,Australia
+TV Show,Drama,2003,G,131,min,Canada
+TV Show,Drama,1955,G,1,Seasons,India
+TV Show,Sci-Fi,1990,TV-MA,151,min,Japan
+TV Show,Action,1995,G,3,Seasons,Japan
+Movie,Drama,1985,G,3,Seasons,United States
+TV Show,Drama,1956,TV-MA,109,min,United Kingdom
+Movie,Drama,1964,PG,2,Seasons,South Korea
+Movie,Comedy,1979,PG-13,113,min,United Kingdom
+TV Show,Thriller,1953,G,79,min,United States
+TV Show,Thriller,1963,G,1,Seasons,Canada
+TV Show,Thriller,1978,G,2,Seasons,South Korea
+Movie,Sci-Fi,1956,TV-14,76,min,Canada
+TV Show,Romance,1970,TV-14,70,min,Japan
+Movie,Drama,1959,TV-MA,71,min,Canada
+TV Show,Sci-Fi,1960,PG,1,Seasons,South Korea
+Movie,Action,2020,PG,3,Seasons,Germany
+Movie,Comedy,1959,TV-14,78,min,Germany
+TV Show,Documentary,2021,TV-PG,121,min,Japan
+Movie,Documentary,1957,G,2,Seasons,Japan
+Movie,Romance,2009,TV-MA,83,min,Australia
+Movie,Action,1989,G,1,Seasons,United Kingdom
+Movie,Romance,1991,TV-PG,1,Seasons,United Kingdom
+TV Show,Documentary,1998,R,3,Seasons,Germany
+TV Show,Horror,2013,TV-MA,95,min,Canada
+Movie,Drama,1987,PG-13,132,min,Australia
+TV Show,Sci-Fi,2023,G,3,Seasons,Canada
+TV Show,Horror,1982,TV-PG,3,Seasons,Canada
+TV Show,Horror,1963,R,95,min,Australia
+Movie,Drama,1960,PG-13,151,min,United States
+Movie,Thriller,1966,R,3,Seasons,South Korea
+TV Show,Thriller,1991,TV-PG,2,Seasons,Germany
+TV Show,Thriller,1977,G,112,min,United States
+Movie,Sci-Fi,1954,PG-13,1,Seasons,Australia
+TV Show,Horror,2019,R,90,min,United Kingdom
+Movie,Comedy,1973,R,180,min,Germany
+Movie,Thriller,1955,PG-13,1,Seasons,India
+TV Show,Action,2003,TV-14,152,min,Australia
+Movie,Romance,1975,TV-14,87,min,Australia
+TV Show,Romance,2021,R,1,Seasons,India
+TV Show,Romance,1950,TV-PG,61,min,Germany
+TV Show,Thriller,1981,PG-13,97,min,Australia
+TV Show,Documentary,1961,R,1,Seasons,Canada
+Movie,Documentary,1955,PG,176,min,Australia
+Movie,Comedy,2001,PG-13,3,Seasons,United Kingdom
+Movie,Thriller,1987,PG-13,1,Seasons,United Kingdom
+TV Show,Horror,2020,TV-PG,3,Seasons,Canada
+Movie,Action,2011,PG,3,Seasons,Canada
+Movie,Romance,1995,TV-14,2,Seasons,United States
+Movie,Documentary,1985,R,2,Seasons,United Kingdom
+TV Show,Comedy,2008,PG-13,2,Seasons,United States
+Movie,Comedy,2006,G,82,min,Germany
+Movie,Comedy,1975,TV-PG,87,min,United Kingdom
+TV Show,Thriller,2008,R,171,min,India
+TV Show,Romance,1953,PG,2,Seasons,India
+Movie,Comedy,1954,R,107,min,Canada
+TV Show,Drama,1962,TV-MA,81,min,Canada
+TV Show,Sci-Fi,1998,TV-14,114,min,United States
+Movie,Action,1976,R,79,min,Canada
+Movie,Romance,1991,TV-PG,80,min,Germany
+Movie,Comedy,2007,TV-MA,1,Seasons,South Korea
+TV Show,Comedy,1994,G,119,min,South Korea
+Movie,Drama,2009,TV-14,168,min,India
+Movie,Documentary,1994,TV-PG,80,min,United Kingdom
+TV Show,Documentary,2009,TV-MA,171,min,United Kingdom
+Movie,Horror,2002,TV-PG,1,Seasons,Australia
+Movie,Sci-Fi,1976,G,3,Seasons,United Kingdom
+Movie,Romance,1970,TV-PG,106,min,Australia
+Movie,Horror,2006,TV-14,2,Seasons,Germany
+TV Show,Action,2014,PG,3,Seasons,India
+Movie,Thriller,1995,TV-PG,2,Seasons,United States
+TV Show,Documentary,1979,TV-PG,2,Seasons,India
+TV Show,Documentary,1974,PG-13,1,Seasons,Japan
+Movie,Thriller,1973,TV-14,1,Seasons,Canada
+TV Show,Drama,2014,PG-13,1,Seasons,Canada
+Movie,Romance,1990,TV-MA,87,min,Australia
+TV Show,Drama,2001,PG-13,75,min,India
+Movie,Thriller,1956,TV-MA,126,min,Germany
+TV Show,Romance,1996,G,88,min,Canada
+Movie,Action,1988,G,3,Seasons,South Korea
+Movie,Thriller,1971,G,2,Seasons,Canada
+Movie,Horror,2003,TV-PG,158,min,Australia
+TV Show,Romance,1966,TV-MA,3,Seasons,South Korea
+Movie,Documentary,1994,G,3,Seasons,India
+TV Show,Action,1978,PG,79,min,United States
+TV Show,Comedy,1989,TV-PG,1,Seasons,United States
+TV Show,Horror,1960,TV-MA,126,min,Canada
+TV Show,Horror,1970,PG,74,min,United Kingdom
+Movie,Thriller,1954,PG,3,Seasons,South Korea
+Movie,Comedy,1994,R,1,Seasons,United Kingdom
+Movie,Drama,1965,TV-MA,118,min,United Kingdom
+Movie,Drama,1970,TV-14,67,min,Canada
+TV Show,Action,2020,R,1,Seasons,United States
+Movie,Action,2017,PG-13,1,Seasons,Germany
+Movie,Documentary,1962,TV-PG,130,min,Canada
+TV Show,Horror,1986,TV-PG,101,min,Australia
+TV Show,Horror,1983,R,3,Seasons,South Korea
+Movie,Action,2010,TV-PG,1,Seasons,Australia
+TV Show,Documentary,2020,PG-13,131,min,Canada
+TV Show,Drama,1994,PG,78,min,United States
+TV Show,Comedy,1961,PG-13,3,Seasons,United States
+TV Show,Thriller,1996,PG,3,Seasons,Germany
+TV Show,Horror,2015,PG,126,min,South Korea
+Movie,Sci-Fi,1962,PG-13,3,Seasons,United Kingdom
+Movie,Sci-Fi,2008,PG,80,min,Canada
+TV Show,Documentary,1992,G,168,min,United Kingdom
+TV Show,Drama,2003,G,103,min,Australia
+TV Show,Action,1970,TV-MA,140,min,India
+TV Show,Horror,1979,TV-MA,88,min,Australia
+Movie,Comedy,2002,PG,2,Seasons,India
+TV Show,Romance,2008,TV-PG,93,min,United States
+Movie,Documentary,1977,TV-PG,1,Seasons,Germany
+TV Show,Drama,1995,PG-13,2,Seasons,Germany
+Movie,Horror,1963,TV-14,2,Seasons,United States
+TV Show,Action,2016,PG-13,101,min,United States
+TV Show,Sci-Fi,2008,TV-14,1,Seasons,Canada
+Movie,Drama,2012,G,3,Seasons,Canada
+TV Show,Thriller,1958,PG,91,min,India
+Movie,Sci-Fi,2018,PG-13,82,min,Japan
+Movie,Thriller,1978,PG,60,min,Canada
+TV Show,Drama,1962,G,3,Seasons,United Kingdom
+TV Show,Romance,1976,R,3,Seasons,Australia
+Movie,Documentary,2002,PG-13,78,min,United Kingdom
+Movie,Comedy,1993,TV-14,3,Seasons,Japan
+Movie,Thriller,1988,PG,3,Seasons,India
+Movie,Romance,2000,TV-PG,2,Seasons,Australia
+TV Show,Action,1964,TV-14,3,Seasons,United Kingdom
+TV Show,Documentary,1967,R,161,min,South Korea
+TV Show,Horror,1968,PG,160,min,South Korea
+TV Show,Documentary,1977,G,99,min,United States
+Movie,Sci-Fi,1969,TV-MA,2,Seasons,United Kingdom
+TV Show,Action,2019,TV-14,1,Seasons,United Kingdom
+TV Show,Horror,1970,R,89,min,United States
+TV Show,Comedy,2016,PG-13,112,min,United States
+Movie,Romance,2022,TV-14,3,Seasons,Australia
+TV Show,Sci-Fi,1965,TV-PG,109,min,Germany
+TV Show,Documentary,1952,TV-14,1,Seasons,Canada
+Movie,Thriller,1966,TV-PG,166,min,Australia
+TV Show,Sci-Fi,2012,G,3,Seasons,United Kingdom
+Movie,Documentary,2016,R,115,min,Australia
+Movie,Sci-Fi,1950,PG,65,min,United States
+TV Show,Drama,1953,TV-PG,179,min,India
+TV Show,Horror,1986,R,3,Seasons,Canada
+TV Show,Sci-Fi,2013,TV-14,1,Seasons,United States
+Movie,Sci-Fi,1967,R,3,Seasons,United States
+TV Show,Horror,1990,TV-MA,1,Seasons,Germany
+Movie,Horror,1973,TV-PG,1,Seasons,Japan
+TV Show,Sci-Fi,1978,TV-PG,1,Seasons,India
+Movie,Drama,1999,G,118,min,Canada
+TV Show,Horror,2014,R,167,min,Japan
+TV Show,Documentary,1968,TV-PG,3,Seasons,South Korea
+Movie,Horror,1950,TV-14,87,min,Canada
+TV Show,Horror,1991,PG,138,min,Japan
+Movie,Sci-Fi,1979,TV-PG,3,Seasons,Canada
+Movie,Romance,1966,R,72,min,United Kingdom
+Movie,Documentary,2009,TV-14,127,min,Japan
+Movie,Action,1996,TV-14,120,min,Germany
+Movie,Sci-Fi,1975,TV-PG,3,Seasons,Canada
+Movie,Comedy,1965,PG-13,61,min,Australia
+Movie,Sci-Fi,2000,PG-13,124,min,United Kingdom
+Movie,Documentary,1956,R,117,min,Germany
+TV Show,Thriller,1953,PG,109,min,Canada
+Movie,Romance,1976,TV-MA,3,Seasons,Australia
+Movie,Drama,2014,TV-PG,3,Seasons,United Kingdom
+Movie,Drama,1953,R,3,Seasons,India
+TV Show,Romance,2015,PG,2,Seasons,Germany
+TV Show,Documentary,2011,PG,1,Seasons,Japan
+Movie,Action,2010,PG-13,70,min,Canada
+Movie,Drama,1996,PG,3,Seasons,India
+TV Show,Comedy,1987,G,3,Seasons,United Kingdom
+Movie,Romance,2006,TV-PG,114,min,Australia
+Movie,Action,2008,G,99,min,South Korea
+TV Show,Sci-Fi,2008,TV-14,174,min,Australia
+Movie,Thriller,2016,G,80,min,India
+Movie,Romance,1971,PG-13,146,min,India
+Movie,Drama,2019,TV-MA,93,min,Germany
+TV Show,Romance,1965,TV-PG,1,Seasons,Germany
+TV Show,Horror,1998,PG,78,min,India
+Movie,Documentary,1964,PG-13,173,min,Canada
+TV Show,Documentary,1954,TV-PG,1,Seasons,South Korea
+Movie,Sci-Fi,1964,R,134,min,Japan
+TV Show,Romance,2004,R,153,min,Japan
+TV Show,Horror,1984,PG-13,134,min,Australia
+TV Show,Romance,2021,PG,107,min,United Kingdom
+TV Show,Comedy,1978,PG-13,1,Seasons,South Korea
+TV Show,Romance,1992,G,1,Seasons,India
+TV Show,Action,2014,PG,143,min,South Korea
+Movie,Horror,2023,PG-13,103,min,United States
+TV Show,Action,1991,PG,1,Seasons,United Kingdom
+TV Show,Action,2023,TV-MA,2,Seasons,India
+TV Show,Drama,2013,TV-MA,131,min,South Korea
+TV Show,Thriller,1973,TV-MA,166,min,United Kingdom
+TV Show,Comedy,2015,PG,2,Seasons,United Kingdom
+Movie,Action,2016,R,1,Seasons,United Kingdom
+TV Show,Drama,1958,TV-MA,75,min,South Korea
+TV Show,Drama,1964,G,96,min,Canada
+Movie,Horror,1959,G,168,min,South Korea
+TV Show,Sci-Fi,1993,PG,2,Seasons,South Korea
+Movie,Drama,2000,G,2,Seasons,South Korea
+Movie,Horror,2004,G,120,min,South Korea
+TV Show,Comedy,1998,PG-13,2,Seasons,Australia
+TV Show,Thriller,1956,PG-13,137,min,India
+TV Show,Horror,1980,TV-14,2,Seasons,Japan
+TV Show,Documentary,2010,TV-14,112,min,South Korea
+Movie,Documentary,2002,PG-13,1,Seasons,United Kingdom
+Movie,Horror,2016,G,138,min,Japan
+TV Show,Sci-Fi,1956,G,1,Seasons,South Korea
+Movie,Documentary,2012,TV-PG,1,Seasons,South Korea
+Movie,Sci-Fi,1984,TV-PG,69,min,United States
+Movie,Sci-Fi,1995,PG,82,min,United States
+TV Show,Horror,1977,TV-14,3,Seasons,Australia
+Movie,Thriller,1961,R,144,min,Germany
+Movie,Documentary,1957,R,2,Seasons,Australia
+Movie,Horror,2010,TV-14,2,Seasons,India
+Movie,Romance,2001,G,1,Seasons,South Korea
+Movie,Comedy,2018,PG-13,111,min,United Kingdom
+TV Show,Horror,1955,PG-13,82,min,Germany
+TV Show,Horror,1970,TV-14,3,Seasons,India
+Movie,Action,1950,PG-13,1,Seasons,Japan
+Movie,Thriller,2022,TV-MA,145,min,South Korea
+TV Show,Thriller,2018,TV-MA,110,min,India
+Movie,Action,1994,TV-MA,2,Seasons,United Kingdom
+Movie,Sci-Fi,1977,TV-MA,3,Seasons,United States
+TV Show,Romance,1974,G,1,Seasons,India
+Movie,Sci-Fi,1999,TV-MA,1,Seasons,United States
+TV Show,Action,1950,TV-MA,165,min,South Korea
+TV Show,Drama,1954,TV-14,106,min,Canada
+TV Show,Romance,2021,R,114,min,Japan
+TV Show,Sci-Fi,2019,G,2,Seasons,Germany
+Movie,Sci-Fi,2005,TV-14,1,Seasons,United Kingdom
+TV Show,Horror,1971,TV-14,2,Seasons,Australia
+TV Show,Action,1957,TV-14,2,Seasons,Australia
+Movie,Romance,2018,G,2,Seasons,South Korea
+TV Show,Horror,1953,TV-MA,137,min,India
+TV Show,Horror,1985,TV-14,168,min,South Korea
+Movie,Drama,1973,G,78,min,United States
+TV Show,Documentary,2018,G,120,min,India
+TV Show,Thriller,1954,TV-MA,2,Seasons,United States
+TV Show,Comedy,1971,TV-PG,1,Seasons,India
+Movie,Horror,1978,PG,157,min,South Korea
+Movie,Sci-Fi,1973,PG-13,163,min,South Korea
+Movie,Comedy,1973,TV-14,128,min,Germany
+Movie,Thriller,2001,G,175,min,South Korea
+Movie,Documentary,1977,G,2,Seasons,United States
+TV Show,Drama,1977,R,120,min,Australia
+TV Show,Documentary,1997,TV-PG,134,min,Germany
+TV Show,Drama,1986,TV-PG,76,min,United States
+Movie,Horror,2002,PG-13,3,Seasons,South Korea
+Movie,Thriller,1959,PG,130,min,South Korea
+TV Show,Action,1959,TV-PG,166,min,Canada
+Movie,Comedy,2023,PG,1,Seasons,Germany
+TV Show,Comedy,2005,PG,1,Seasons,Japan
+Movie,Drama,1968,TV-MA,172,min,Australia
+TV Show,Thriller,1960,PG-13,98,min,United States
+TV Show,Sci-Fi,2006,R,123,min,United States
+TV Show,Romance,2016,TV-14,2,Seasons,South Korea
+Movie,Romance,1963,R,2,Seasons,Australia
+Movie,Romance,2005,TV-14,104,min,India
+TV Show,Horror,1997,G,98,min,Germany
+Movie,Action,1973,TV-MA,3,Seasons,South Korea
+Movie,Horror,1979,TV-PG,165,min,Canada
+TV Show,Thriller,1973,TV-MA,1,Seasons,India
+Movie,Sci-Fi,1989,TV-14,1,Seasons,Canada
+TV Show,Thriller,2022,TV-14,1,Seasons,United Kingdom
+TV Show,Romance,2008,G,132,min,India
+TV Show,Documentary,1970,PG-13,2,Seasons,Australia
+Movie,Sci-Fi,2005,PG-13,2,Seasons,Canada
+Movie,Romance,1970,G,120,min,Canada
+Movie,Romance,1999,TV-MA,109,min,South Korea
+Movie,Sci-Fi,1999,R,129,min,Canada
+TV Show,Documentary,1991,G,81,min,Canada
+Movie,Thriller,1983,PG-13,1,Seasons,Australia
+TV Show,Thriller,1965,PG-13,3,Seasons,Australia
+Movie,Thriller,1950,PG,2,Seasons,United Kingdom
+TV Show,Sci-Fi,2003,TV-14,79,min,United Kingdom
+TV Show,Sci-Fi,1985,TV-PG,1,Seasons,Canada
+TV Show,Thriller,1983,G,1,Seasons,Japan
+Movie,Romance,1956,R,1,Seasons,South Korea
+TV Show,Horror,1957,R,139,min,South Korea
+TV Show,Action,2012,PG,62,min,United Kingdom
+Movie,Horror,2018,TV-MA,2,Seasons,Germany
+TV Show,Documentary,1970,G,3,Seasons,United Kingdom
+TV Show,Thriller,1970,R,116,min,United Kingdom
+TV Show,Comedy,1975,TV-14,126,min,India
+TV Show,Action,2000,TV-MA,1,Seasons,Australia
+Movie,Sci-Fi,1998,TV-PG,102,min,South Korea
+TV Show,Comedy,1971,TV-PG,135,min,United Kingdom
+Movie,Action,1999,TV-MA,1,Seasons,Canada
+TV Show,Action,1986,R,1,Seasons,Germany
+Movie,Romance,1956,G,134,min,India
+Movie,Thriller,1983,PG-13,3,Seasons,Australia
+Movie,Sci-Fi,1986,G,1,Seasons,Australia
+Movie,Drama,1993,TV-PG,3,Seasons,United States
+TV Show,Horror,2003,G,178,min,Germany
+TV Show,Sci-Fi,2010,TV-14,1,Seasons,Canada
+TV Show,Thriller,1982,PG-13,137,min,Canada
+Movie,Thriller,1957,PG,1,Seasons,Canada
+TV Show,Horror,2012,G,67,min,United States
+Movie,Horror,2021,R,2,Seasons,United States
+Movie,Thriller,2021,PG-13,180,min,South Korea
+Movie,Sci-Fi,2002,TV-MA,2,Seasons,Canada
+TV Show,Sci-Fi,2015,PG-13,3,Seasons,South Korea
+TV Show,Romance,2000,G,61,min,United States
+TV Show,Thriller,1987,R,63,min,United States
+Movie,Drama,1953,G,173,min,Canada
+Movie,Documentary,1985,TV-14,1,Seasons,United States
+TV Show,Action,2013,R,176,min,Germany
+Movie,Action,1997,TV-14,3,Seasons,Australia
+TV Show,Action,2013,TV-MA,2,Seasons,India
+TV Show,Sci-Fi,2023,TV-PG,164,min,United States
+TV Show,Romance,1988,G,76,min,Canada
+TV Show,Romance,1965,PG-13,66,min,Australia
+TV Show,Action,2018,PG,3,Seasons,India
+Movie,Drama,1951,PG,2,Seasons,India
+Movie,Romance,1994,TV-14,3,Seasons,United Kingdom
+TV Show,Sci-Fi,1991,TV-MA,74,min,Japan
+TV Show,Documentary,1999,TV-MA,75,min,South Korea
+Movie,Action,2009,TV-14,1,Seasons,India
+TV Show,Comedy,1961,G,131,min,United Kingdom
+Movie,Comedy,1985,PG-13,105,min,Canada
+Movie,Sci-Fi,1983,TV-PG,154,min,India
+Movie,Comedy,1969,TV-14,155,min,India
+Movie,Documentary,1961,TV-PG,122,min,United Kingdom
+TV Show,Action,1975,TV-PG,144,min,South Korea
+Movie,Sci-Fi,1956,TV-MA,1,Seasons,India
+Movie,Documentary,1982,G,137,min,India
+Movie,Action,1976,TV-14,3,Seasons,Canada
+Movie,Horror,1992,PG-13,152,min,United Kingdom
+TV Show,Comedy,1976,R,1,Seasons,Germany
+Movie,Drama,2008,TV-14,88,min,Canada
+Movie,Romance,1963,TV-14,3,Seasons,India
+TV Show,Thriller,1997,TV-14,131,min,India
+TV Show,Action,1980,TV-MA,93,min,United Kingdom
+Movie,Thriller,1966,TV-14,2,Seasons,United States
+TV Show,Action,2020,TV-MA,152,min,United Kingdom
+TV Show,Drama,1955,TV-14,2,Seasons,Australia
+TV Show,Action,1975,PG-13,3,Seasons,India
+Movie,Drama,1975,PG-13,175,min,India
+Movie,Thriller,1988,PG-13,103,min,Germany
+TV Show,Comedy,2009,TV-MA,3,Seasons,India
+TV Show,Documentary,2004,TV-MA,131,min,Australia
+Movie,Documentary,2017,TV-MA,1,Seasons,Germany
+Movie,Documentary,1983,TV-PG,130,min,Canada
+TV Show,Drama,1984,R,147,min,Japan
+TV Show,Sci-Fi,1973,PG,135,min,India
+TV Show,Comedy,1985,PG-13,178,min,India
+TV Show,Sci-Fi,2011,PG,2,Seasons,Canada
+TV Show,Comedy,2000,G,3,Seasons,Australia
+Movie,Documentary,2016,R,74,min,United Kingdom
+Movie,Drama,1990,PG-13,3,Seasons,Germany
+Movie,Sci-Fi,1990,R,111,min,Japan
+Movie,Thriller,1990,PG-13,106,min,United States
+TV Show,Thriller,2010,PG-13,2,Seasons,Australia
+TV Show,Sci-Fi,2007,PG-13,3,Seasons,Germany
+TV Show,Romance,1983,TV-PG,1,Seasons,Japan
+TV Show,Action,1979,TV-14,2,Seasons,India
+Movie,Sci-Fi,2002,PG-13,132,min,United Kingdom
+TV Show,Action,2004,R,164,min,Germany
+Movie,Drama,2021,PG,140,min,United Kingdom
+Movie,Action,1983,TV-PG,85,min,Japan
+TV Show,Sci-Fi,2011,R,2,Seasons,South Korea
+Movie,Romance,2020,PG-13,1,Seasons,Australia
+Movie,Comedy,1972,PG-13,2,Seasons,United Kingdom
+TV Show,Documentary,2000,PG,86,min,India
+TV Show,Comedy,2011,PG-13,169,min,United States
+TV Show,Drama,1998,TV-MA,153,min,Australia
+Movie,Horror,2019,TV-PG,146,min,Australia
+Movie,Comedy,1997,R,2,Seasons,Japan
+Movie,Drama,2007,G,3,Seasons,India
+TV Show,Drama,1971,TV-MA,154,min,Canada
+TV Show,Drama,2003,R,70,min,United Kingdom
+Movie,Comedy,1957,PG-13,60,min,South Korea
+TV Show,Sci-Fi,2003,R,3,Seasons,Germany
+TV Show,Action,2003,TV-PG,3,Seasons,United Kingdom
+Movie,Sci-Fi,2019,TV-14,2,Seasons,Japan
+TV Show,Action,1982,TV-14,3,Seasons,Canada
+TV Show,Thriller,1991,TV-PG,2,Seasons,United Kingdom
+TV Show,Sci-Fi,2012,R,1,Seasons,South Korea
+Movie,Action,1974,G,77,min,South Korea
+TV Show,Thriller,1994,TV-PG,1,Seasons,United Kingdom
+Movie,Action,1991,PG,130,min,Japan
+Movie,Comedy,1979,TV-MA,126,min,United Kingdom
+TV Show,Romance,1961,PG,3,Seasons,United Kingdom
+TV Show,Comedy,1988,TV-PG,140,min,United Kingdom
+TV Show,Sci-Fi,1950,TV-PG,2,Seasons,United States
+TV Show,Action,1962,TV-MA,134,min,Canada
+TV Show,Action,1980,PG,155,min,South Korea
+TV Show,Horror,1965,TV-MA,86,min,United States
+TV Show,Horror,2010,TV-MA,93,min,United States
+Movie,Comedy,1958,R,1,Seasons,Canada
+TV Show,Horror,1993,TV-14,3,Seasons,United Kingdom
+TV Show,Horror,2018,G,1,Seasons,Japan
+Movie,Horror,1995,R,71,min,India
+TV Show,Documentary,2013,R,3,Seasons,United Kingdom
+Movie,Horror,1963,PG-13,68,min,Germany
+Movie,Drama,1984,G,2,Seasons,United Kingdom
+Movie,Thriller,2019,PG,3,Seasons,Australia
+TV Show,Documentary,1959,G,2,Seasons,Germany
+Movie,Sci-Fi,1970,PG-13,169,min,United Kingdom
+Movie,Action,1979,PG-13,3,Seasons,Canada
+Movie,Thriller,1982,TV-14,3,Seasons,India
+Movie,Romance,1976,TV-14,62,min,United Kingdom
+Movie,Sci-Fi,1959,G,1,Seasons,South Korea
+Movie,Romance,1968,TV-14,1,Seasons,United Kingdom
+Movie,Action,1997,TV-PG,1,Seasons,South Korea
+Movie,Action,1964,TV-MA,124,min,India
+Movie,Documentary,2003,TV-PG,1,Seasons,Germany
+Movie,Horror,2014,PG-13,161,min,Japan
+TV Show,Drama,2006,PG,159,min,United Kingdom
+Movie,Action,1951,PG,63,min,Australia
+TV Show,Thriller,1966,TV-14,171,min,South Korea
+Movie,Documentary,1970,TV-MA,175,min,Australia
+Movie,Sci-Fi,1999,TV-14,97,min,United States
+Movie,Horror,2008,TV-14,152,min,Germany
+Movie,Comedy,1960,PG-13,3,Seasons,South Korea
+Movie,Romance,1970,TV-PG,77,min,Japan
+Movie,Documentary,1983,R,63,min,South Korea
+TV Show,Action,2018,PG,2,Seasons,India
+TV Show,Romance,1991,TV-14,3,Seasons,Australia
+Movie,Documentary,1961,G,113,min,Australia
+Movie,Action,1998,PG,121,min,Canada
+TV Show,Action,1972,TV-PG,1,Seasons,Australia
+TV Show,Horror,1954,PG,1,Seasons,India
+Movie,Documentary,1964,PG-13,91,min,Australia
+TV Show,Horror,2014,TV-PG,147,min,Canada
+Movie,Sci-Fi,1955,TV-PG,1,Seasons,Canada
+Movie,Drama,2020,TV-PG,2,Seasons,United States
+TV Show,Romance,1974,TV-14,2,Seasons,United Kingdom
+TV Show,Romance,2009,TV-14,2,Seasons,India
+Movie,Comedy,2002,TV-14,1,Seasons,United Kingdom
+TV Show,Comedy,2010,R,89,min,India
+Movie,Drama,1962,R,2,Seasons,Australia
+TV Show,Romance,1970,TV-MA,1,Seasons,Canada
+Movie,Drama,1953,TV-14,99,min,Germany
+TV Show,Romance,1966,G,2,Seasons,Germany
+TV Show,Thriller,1952,TV-14,1,Seasons,United States
+TV Show,Comedy,1952,TV-14,2,Seasons,Japan
+Movie,Horror,1953,TV-MA,175,min,Canada
+TV Show,Documentary,1986,PG,2,Seasons,South Korea
+Movie,Drama,2007,R,3,Seasons,Canada
+Movie,Thriller,1973,TV-14,85,min,India
+Movie,Horror,2019,TV-MA,1,Seasons,Germany
+Movie,Thriller,2005,TV-MA,115,min,United Kingdom
+TV Show,Drama,1998,TV-14,3,Seasons,United States
+TV Show,Drama,1962,PG-13,169,min,Australia
+TV Show,Drama,2021,TV-MA,1,Seasons,United States
+TV Show,Romance,2014,TV-14,2,Seasons,Australia
+TV Show,Drama,1979,R,66,min,South Korea
+Movie,Documentary,2010,R,2,Seasons,South Korea
+TV Show,Thriller,2014,TV-MA,2,Seasons,Canada
+TV Show,Romance,1968,TV-14,3,Seasons,Japan
+TV Show,Romance,1986,PG-13,1,Seasons,India
+TV Show,Horror,1983,TV-PG,1,Seasons,Germany
+Movie,Horror,1986,TV-14,1,Seasons,Canada
+TV Show,Romance,1953,TV-MA,79,min,Japan
+Movie,Drama,2021,TV-14,3,Seasons,United States
+Movie,Romance,1959,PG-13,126,min,United States
+TV Show,Documentary,1996,G,2,Seasons,Australia
+TV Show,Thriller,1950,PG-13,138,min,Canada
+Movie,Documentary,2003,TV-14,3,Seasons,Japan
+TV Show,Comedy,1953,G,3,Seasons,India
+TV Show,Documentary,1959,TV-PG,133,min,South Korea
+Movie,Documentary,1966,TV-PG,104,min,United States
+TV Show,Comedy,2023,G,143,min,Germany
+TV Show,Documentary,1953,TV-MA,135,min,Canada
+Movie,Horror,1978,PG,2,Seasons,United Kingdom
+TV Show,Sci-Fi,1999,R,2,Seasons,Canada
+TV Show,Thriller,2011,TV-PG,145,min,Japan
+Movie,Thriller,1973,TV-PG,164,min,South Korea
+Movie,Documentary,1987,R,1,Seasons,India
+Movie,Horror,1960,R,2,Seasons,India
+Movie,Action,1969,TV-14,64,min,Germany
+TV Show,Comedy,1972,TV-MA,1,Seasons,Japan
+Movie,Documentary,1973,TV-PG,92,min,South Korea
+Movie,Horror,2013,TV-PG,82,min,Canada
+Movie,Thriller,2022,G,1,Seasons,Japan
+TV Show,Horror,1988,G,164,min,South Korea
+TV Show,Drama,1995,TV-14,132,min,Japan
+Movie,Thriller,2016,G,2,Seasons,Germany
+Movie,Romance,2019,TV-14,2,Seasons,South Korea
+TV Show,Comedy,2007,PG,2,Seasons,Australia
+TV Show,Documentary,1963,R,3,Seasons,South Korea
+Movie,Documentary,1957,PG-13,3,Seasons,United Kingdom
+TV Show,Action,2009,R,3,Seasons,Australia
+TV Show,Thriller,2002,TV-PG,117,min,Canada
+TV Show,Romance,1997,R,2,Seasons,Germany
+Movie,Thriller,1959,R,122,min,Japan
+Movie,Action,1981,PG,1,Seasons,South Korea
+Movie,Comedy,1992,TV-MA,153,min,South Korea
+Movie,Thriller,1979,TV-PG,2,Seasons,India
+Movie,Comedy,2005,R,3,Seasons,Australia
+TV Show,Action,1992,TV-14,167,min,Germany
+Movie,Horror,1989,PG-13,2,Seasons,United States
+Movie,Thriller,1995,TV-MA,173,min,South Korea
+Movie,Action,2003,TV-MA,73,min,Japan
+TV Show,Thriller,1959,R,2,Seasons,United Kingdom
+TV Show,Sci-Fi,1996,G,1,Seasons,Canada
+TV Show,Horror,1954,TV-MA,84,min,Japan
+Movie,Sci-Fi,2020,PG-13,127,min,Japan
+TV Show,Comedy,1983,TV-MA,2,Seasons,United States
+TV Show,Sci-Fi,2021,TV-PG,116,min,Australia
+Movie,Romance,2012,PG,137,min,Australia
+Movie,Comedy,2022,R,110,min,Germany
+Movie,Documentary,1992,TV-PG,2,Seasons,Canada
+TV Show,Horror,1981,TV-14,2,Seasons,Australia
+TV Show,Comedy,1996,R,103,min,United States
+Movie,Drama,2018,TV-PG,69,min,India
+TV Show,Comedy,1972,G,3,Seasons,Japan
+Movie,Sci-Fi,1959,PG-13,75,min,India
+TV Show,Thriller,2016,R,87,min,Germany
+TV Show,Documentary,2022,PG-13,119,min,Australia
+TV Show,Thriller,1967,PG-13,3,Seasons,Australia
+TV Show,Comedy,2007,G,74,min,Australia
+TV Show,Thriller,1972,R,148,min,United Kingdom
+Movie,Comedy,1981,TV-MA,167,min,Australia
+TV Show,Action,2012,PG-13,137,min,India
+TV Show,Sci-Fi,1976,R,2,Seasons,United States
+TV Show,Drama,2022,PG,105,min,Canada
+TV Show,Drama,1958,G,105,min,United Kingdom
+TV Show,Sci-Fi,1983,PG-13,78,min,Germany
+Movie,Thriller,2010,TV-MA,1,Seasons,Australia
+TV Show,Thriller,1999,TV-MA,2,Seasons,United Kingdom
+TV Show,Horror,1956,TV-14,2,Seasons,United Kingdom
+Movie,Thriller,1996,PG-13,134,min,Canada
+Movie,Comedy,1957,TV-PG,3,Seasons,Australia
+Movie,Comedy,1980,PG,1,Seasons,Germany
+Movie,Horror,1950,TV-14,3,Seasons,Germany
+Movie,Horror,1958,TV-14,143,min,Japan
+Movie,Documentary,1958,G,82,min,South Korea
+Movie,Romance,1980,TV-14,177,min,India
+Movie,Comedy,2021,TV-14,1,Seasons,Australia
+TV Show,Sci-Fi,1971,R,1,Seasons,Germany
+Movie,Romance,2023,R,91,min,United Kingdom
+TV Show,Action,1977,TV-MA,1,Seasons,India
+Movie,Romance,1977,TV-14,3,Seasons,Japan
+TV Show,Sci-Fi,2000,TV-14,3,Seasons,India
+TV Show,Romance,2021,TV-PG,108,min,India
+Movie,Horror,2004,PG-13,87,min,United Kingdom
+Movie,Horror,1984,R,85,min,Japan
+TV Show,Romance,2004,TV-PG,1,Seasons,South Korea
+Movie,Action,2020,TV-14,162,min,United States
+TV Show,Documentary,2017,TV-14,3,Seasons,United Kingdom
+TV Show,Action,1982,R,2,Seasons,South Korea
+Movie,Comedy,2021,TV-MA,103,min,India
+TV Show,Drama,1984,TV-MA,101,min,United Kingdom
+TV Show,Thriller,2014,TV-MA,1,Seasons,Germany
+Movie,Drama,2020,PG,1,Seasons,Japan
+TV Show,Horror,1981,TV-PG,1,Seasons,Germany
+TV Show,Sci-Fi,2004,TV-14,73,min,Canada
+Movie,Action,1997,TV-PG,1,Seasons,United States
+Movie,Thriller,1960,R,173,min,Japan
+Movie,Comedy,1998,R,158,min,United States
+TV Show,Horror,1966,TV-MA,1,Seasons,India
+TV Show,Documentary,1960,R,80,min,Canada
+TV Show,Romance,1959,R,90,min,Germany
+Movie,Drama,2019,TV-PG,131,min,South Korea
+TV Show,Documentary,1999,R,2,Seasons,Australia
+TV Show,Horror,1981,G,1,Seasons,United Kingdom
+TV Show,Action,2005,TV-PG,153,min,South Korea
+TV Show,Thriller,1982,TV-MA,175,min,Japan
+TV Show,Comedy,1970,G,2,Seasons,Japan
+Movie,Documentary,1995,TV-14,78,min,Japan
+Movie,Romance,1996,PG,3,Seasons,Australia
+Movie,Thriller,1967,TV-PG,130,min,India
+TV Show,Comedy,1987,G,108,min,United Kingdom
+Movie,Comedy,1963,TV-PG,3,Seasons,Germany
+Movie,Horror,1979,PG,94,min,Japan
+Movie,Comedy,2010,TV-MA,85,min,South Korea
+TV Show,Thriller,1993,TV-14,1,Seasons,United Kingdom
+TV Show,Horror,1966,R,148,min,India
+Movie,Horror,2004,PG,74,min,Japan
+Movie,Drama,2023,TV-MA,1,Seasons,United Kingdom
+TV Show,Drama,2003,PG-13,148,min,Canada
+TV Show,Thriller,1985,TV-PG,2,Seasons,Australia
+Movie,Horror,1957,R,154,min,Japan
+TV Show,Sci-Fi,1990,G,2,Seasons,United States
+Movie,Comedy,1964,PG,3,Seasons,Canada
+Movie,Comedy,1966,TV-PG,3,Seasons,Australia
+TV Show,Drama,2020,R,1,Seasons,Canada
+TV Show,Horror,1964,PG,129,min,South Korea
+Movie,Romance,1965,PG-13,169,min,United States
+TV Show,Action,1951,G,3,Seasons,Germany
+Movie,Sci-Fi,1982,PG-13,101,min,India
+Movie,Sci-Fi,1965,G,2,Seasons,Germany
+Movie,Action,1995,TV-MA,75,min,Australia
+TV Show,Documentary,1971,TV-MA,176,min,United Kingdom
+TV Show,Drama,1953,PG-13,172,min,South Korea
+TV Show,Drama,1993,TV-MA,97,min,Germany
+Movie,Comedy,2023,G,123,min,Australia
+TV Show,Comedy,2013,G,115,min,United States
+TV Show,Romance,1989,G,77,min,Japan
+Movie,Drama,2001,PG,85,min,Canada
+TV Show,Comedy,2008,G,1,Seasons,Canada
+Movie,Horror,1979,TV-MA,117,min,Germany
+TV Show,Sci-Fi,1957,TV-PG,97,min,Australia
+Movie,Action,1992,PG,1,Seasons,United Kingdom
+Movie,Horror,1995,PG,104,min,Canada
+Movie,Horror,1968,PG-13,2,Seasons,South Korea
+TV Show,Sci-Fi,2019,PG-13,107,min,Japan
+Movie,Comedy,1993,R,2,Seasons,India
+Movie,Horror,1981,PG-13,108,min,South Korea
+TV Show,Documentary,2012,R,2,Seasons,Japan
+Movie,Drama,1997,PG,1,Seasons,United States
+Movie,Documentary,2016,PG,2,Seasons,Germany
+TV Show,Horror,1992,R,3,Seasons,United States
+TV Show,Romance,2012,TV-14,175,min,India
+Movie,Romance,1952,TV-14,3,Seasons,United States
+TV Show,Comedy,2004,PG-13,3,Seasons,India
+Movie,Drama,1954,TV-MA,108,min,South Korea
+Movie,Thriller,1966,TV-PG,2,Seasons,India
+Movie,Thriller,1956,PG-13,1,Seasons,United States
+Movie,Romance,1988,G,1,Seasons,Australia
+TV Show,Comedy,1978,PG,2,Seasons,United States
+TV Show,Sci-Fi,2013,R,2,Seasons,United Kingdom
+TV Show,Romance,2017,PG,153,min,India
+TV Show,Drama,2019,PG,125,min,United Kingdom
+Movie,Horror,1986,PG,3,Seasons,Australia
+Movie,Thriller,1955,TV-MA,141,min,Australia
+TV Show,Documentary,1973,PG,109,min,Canada
+TV Show,Sci-Fi,1989,PG,155,min,Canada
+TV Show,Sci-Fi,1983,TV-PG,128,min,United States
+Movie,Sci-Fi,1996,R,1,Seasons,Japan
+TV Show,Documentary,1977,TV-PG,103,min,India
+Movie,Romance,1979,TV-14,100,min,United Kingdom
+TV Show,Action,1975,G,1,Seasons,South Korea
+TV Show,Horror,1996,TV-MA,121,min,Canada
+Movie,Drama,1965,PG,2,Seasons,Germany
+Movie,Horror,2010,PG-13,163,min,South Korea
+TV Show,Action,2017,G,3,Seasons,United Kingdom
+TV Show,Sci-Fi,1975,PG,2,Seasons,United States
+TV Show,Thriller,1992,G,78,min,South Korea
+Movie,Romance,1976,PG-13,117,min,United States
+TV Show,Romance,2001,PG,1,Seasons,South Korea
+TV Show,Documentary,1950,TV-14,79,min,United Kingdom
+TV Show,Documentary,2015,PG,169,min,Canada
+TV Show,Thriller,2007,PG-13,3,Seasons,Canada
+Movie,Thriller,1966,PG-13,1,Seasons,India
+Movie,Thriller,2013,TV-MA,2,Seasons,United Kingdom
+Movie,Romance,1980,TV-14,176,min,India
+TV Show,Thriller,1971,TV-14,2,Seasons,India
+TV Show,Documentary,1969,G,164,min,United Kingdom
+Movie,Drama,1955,TV-14,3,Seasons,Australia
+Movie,Comedy,1975,PG-13,1,Seasons,United States
+TV Show,Comedy,2018,R,146,min,South Korea
+TV Show,Thriller,2020,G,105,min,United Kingdom
+Movie,Comedy,2011,R,118,min,South Korea
+TV Show,Romance,2014,R,82,min,United Kingdom
+TV Show,Thriller,2018,TV-14,3,Seasons,Australia
+TV Show,Documentary,2020,TV-PG,2,Seasons,India
+TV Show,Thriller,1972,R,97,min,South Korea
+Movie,Comedy,1963,TV-14,163,min,Canada
+Movie,Action,1990,TV-MA,1,Seasons,Australia
+Movie,Drama,1988,PG-13,119,min,Germany
+Movie,Drama,2006,R,1,Seasons,South Korea
+TV Show,Comedy,2013,PG-13,141,min,Japan
+TV Show,Horror,1954,G,111,min,Germany
+TV Show,Thriller,1982,G,2,Seasons,Australia
+Movie,Drama,1988,PG,2,Seasons,Japan
+TV Show,Comedy,1993,PG,148,min,India
+Movie,Romance,1988,PG-13,156,min,Germany
+TV Show,Comedy,1985,TV-PG,143,min,Germany
+TV Show,Documentary,1986,R,1,Seasons,United Kingdom
+Movie,Comedy,1980,R,156,min,Australia
+TV Show,Documentary,1963,PG-13,2,Seasons,India
+TV Show,Drama,1950,TV-14,3,Seasons,Germany
+TV Show,Action,1976,R,3,Seasons,Canada
+TV Show,Drama,1964,TV-MA,1,Seasons,Japan
+Movie,Horror,1959,PG,3,Seasons,United Kingdom
+Movie,Comedy,1980,TV-14,3,Seasons,South Korea
+TV Show,Horror,2023,G,154,min,South Korea
+TV Show,Documentary,2022,TV-14,86,min,India
+TV Show,Thriller,2000,TV-MA,1,Seasons,United States
+TV Show,Drama,1969,TV-PG,158,min,Germany
+Movie,Action,1975,TV-MA,3,Seasons,Australia
+Movie,Documentary,2002,PG,3,Seasons,India
+TV Show,Drama,1986,TV-MA,1,Seasons,United Kingdom
+Movie,Horror,1982,TV-14,2,Seasons,Australia
+TV Show,Romance,1963,PG,102,min,South Korea
+TV Show,Sci-Fi,1989,TV-PG,91,min,United States
+Movie,Thriller,2018,TV-PG,164,min,Canada
+Movie,Documentary,1970,PG-13,139,min,United Kingdom
+TV Show,Documentary,1976,TV-14,64,min,Australia
+Movie,Comedy,1992,PG-13,2,Seasons,Germany
+Movie,Drama,1989,PG,2,Seasons,South Korea
+Movie,Comedy,1985,R,1,Seasons,United Kingdom
+Movie,Romance,2023,TV-MA,72,min,Japan
+Movie,Documentary,2014,G,1,Seasons,United Kingdom
+TV Show,Thriller,1967,PG-13,3,Seasons,United States
+TV Show,Horror,2011,PG,74,min,United States
+TV Show,Drama,1977,TV-14,1,Seasons,Germany
+TV Show,Action,1978,TV-MA,2,Seasons,Japan
+Movie,Thriller,1953,TV-MA,3,Seasons,Japan
+Movie,Horror,1973,PG,154,min,South Korea
+TV Show,Comedy,1999,PG,173,min,United Kingdom
+Movie,Drama,1993,PG,3,Seasons,South Korea
+TV Show,Drama,1950,TV-14,2,Seasons,United States
+Movie,Comedy,1975,PG-13,80,min,South Korea
+TV Show,Thriller,1969,TV-14,65,min,Australia
+Movie,Horror,1955,G,3,Seasons,United States
+TV Show,Documentary,1966,R,110,min,United States
+TV Show,Horror,1952,TV-14,2,Seasons,Canada
+Movie,Horror,1959,G,128,min,Japan
+TV Show,Action,1980,PG,3,Seasons,Canada
+TV Show,Comedy,1963,R,109,min,Canada
+TV Show,Comedy,1990,TV-MA,84,min,United States
+Movie,Action,1973,TV-14,167,min,Canada
+Movie,Thriller,1970,TV-PG,77,min,United Kingdom
+TV Show,Action,1977,TV-PG,3,Seasons,United Kingdom
+Movie,Comedy,2011,PG-13,1,Seasons,Germany
+Movie,Comedy,2013,R,3,Seasons,Germany
+TV Show,Action,1976,PG-13,109,min,Japan
+TV Show,Comedy,1971,TV-14,2,Seasons,United Kingdom
+TV Show,Horror,1976,R,2,Seasons,United Kingdom
+Movie,Horror,1983,TV-MA,104,min,Australia
+Movie,Horror,1951,G,1,Seasons,Germany
+TV Show,Horror,2006,PG,60,min,United Kingdom
+TV Show,Documentary,1992,R,2,Seasons,United Kingdom
+Movie,Documentary,1978,R,117,min,India
+TV Show,Drama,2017,TV-PG,150,min,Germany
+TV Show,Documentary,1987,TV-PG,146,min,Japan
+TV Show,Drama,2022,TV-MA,67,min,United States
+Movie,Sci-Fi,2020,PG-13,1,Seasons,United States
+TV Show,Romance,1969,R,3,Seasons,United States
+TV Show,Action,1978,PG,119,min,Canada
+Movie,Drama,1969,G,1,Seasons,Canada
+TV Show,Comedy,1962,G,3,Seasons,United States
+TV Show,Romance,2016,TV-PG,90,min,South Korea
+Movie,Horror,1956,PG,2,Seasons,United Kingdom
+TV Show,Horror,1988,TV-PG,141,min,United States
+Movie,Thriller,1982,G,132,min,Germany
+TV Show,Comedy,1962,TV-PG,167,min,India
+Movie,Action,1959,TV-14,1,Seasons,Japan
+Movie,Thriller,1957,PG-13,69,min,Australia
+Movie,Action,1989,PG,3,Seasons,Canada
+TV Show,Romance,1990,TV-14,143,min,Canada
+TV Show,Thriller,1954,R,109,min,United States
+Movie,Action,1968,TV-MA,121,min,South Korea
+Movie,Thriller,1954,PG-13,103,min,India
+Movie,Horror,1998,TV-14,165,min,Japan
+TV Show,Comedy,1997,TV-PG,3,Seasons,Germany
+Movie,Drama,1979,TV-MA,98,min,Japan
+TV Show,Documentary,2007,TV-MA,119,min,Japan
+TV Show,Sci-Fi,1969,TV-14,2,Seasons,Canada
+TV Show,Comedy,1975,TV-14,147,min,Canada
+Movie,Action,1976,TV-PG,72,min,Australia
+Movie,Action,2012,TV-MA,91,min,India
+TV Show,Romance,1954,TV-14,73,min,United Kingdom
+Movie,Drama,1966,G,1,Seasons,South Korea
+TV Show,Drama,2009,R,177,min,Australia
+Movie,Thriller,1976,TV-14,2,Seasons,Germany
+Movie,Action,1989,G,2,Seasons,United Kingdom
+TV Show,Romance,1979,PG,61,min,South Korea
+Movie,Sci-Fi,1951,TV-MA,2,Seasons,United Kingdom
+TV Show,Thriller,1970,TV-PG,2,Seasons,Australia
+Movie,Drama,1967,PG-13,2,Seasons,Canada
+Movie,Horror,2003,R,177,min,South Korea
+TV Show,Horror,1983,TV-MA,172,min,Canada
+TV Show,Sci-Fi,1985,G,1,Seasons,South Korea
+Movie,Comedy,2012,TV-PG,1,Seasons,Canada
+Movie,Thriller,2010,TV-MA,144,min,United States
+Movie,Sci-Fi,1982,PG-13,169,min,India
+TV Show,Drama,1956,PG-13,171,min,South Korea
+TV Show,Sci-Fi,2005,PG-13,68,min,India
+Movie,Documentary,1959,TV-MA,70,min,India
+TV Show,Drama,1962,G,3,Seasons,India
+TV Show,Action,1958,TV-14,1,Seasons,Germany
+TV Show,Horror,1962,TV-PG,2,Seasons,Germany
+Movie,Drama,1963,R,74,min,South Korea
+Movie,Drama,1974,TV-MA,152,min,Germany
+Movie,Thriller,2007,PG,2,Seasons,South Korea
+TV Show,Documentary,1985,G,170,min,Germany
+Movie,Comedy,1978,TV-PG,1,Seasons,India
+Movie,Horror,1960,TV-PG,2,Seasons,Germany
+Movie,Horror,1958,PG-13,3,Seasons,Canada
+TV Show,Sci-Fi,1963,R,148,min,Japan
+Movie,Romance,1997,TV-14,2,Seasons,South Korea
+TV Show,Romance,2012,TV-14,60,min,United States
+Movie,Documentary,1983,TV-PG,63,min,India
+TV Show,Romance,2001,PG,1,Seasons,Australia
+Movie,Romance,2002,TV-14,122,min,South Korea
+TV Show,Sci-Fi,1965,TV-MA,3,Seasons,United Kingdom
+TV Show,Action,1972,R,111,min,Australia
+TV Show,Horror,1977,R,161,min,Canada
+Movie,Documentary,1992,TV-MA,112,min,Canada
+TV Show,Horror,2001,PG-13,85,min,South Korea
+TV Show,Thriller,2000,PG,139,min,Japan
+TV Show,Sci-Fi,1988,R,3,Seasons,United Kingdom
+TV Show,Horror,1950,R,128,min,Germany
+Movie,Documentary,1957,R,3,Seasons,Japan
+Movie,Comedy,2011,TV-PG,1,Seasons,United Kingdom
+TV Show,Horror,1972,PG,2,Seasons,Germany
+TV Show,Comedy,2020,TV-MA,2,Seasons,Germany
+Movie,Drama,1991,G,2,Seasons,Canada
+Movie,Documentary,2021,G,97,min,India
+Movie,Thriller,2021,TV-PG,2,Seasons,India
+TV Show,Action,1975,TV-MA,74,min,Japan
+Movie,Romance,2018,PG-13,2,Seasons,India
+Movie,Sci-Fi,1988,TV-MA,2,Seasons,Canada
+TV Show,Action,1990,TV-14,154,min,India
+Movie,Documentary,1983,TV-MA,104,min,United Kingdom
+TV Show,Comedy,1986,TV-14,2,Seasons,Japan
+TV Show,Thriller,2006,TV-MA,97,min,India
+TV Show,Comedy,2018,R,134,min,Canada
+Movie,Romance,1959,TV-14,81,min,South Korea
+TV Show,Drama,2002,G,174,min,South Korea
+TV Show,Drama,1980,TV-14,1,Seasons,United States
+TV Show,Drama,1996,TV-14,2,Seasons,United States
+TV Show,Sci-Fi,1966,TV-PG,178,min,India
+Movie,Action,1998,TV-14,174,min,Canada
+TV Show,Thriller,1994,G,2,Seasons,Japan
+TV Show,Thriller,1979,TV-PG,158,min,Japan
+Movie,Thriller,1996,TV-14,164,min,Germany
+Movie,Horror,2011,R,180,min,Germany
+TV Show,Comedy,2008,PG,143,min,United States
+Movie,Horror,2002,R,2,Seasons,India
+Movie,Comedy,1994,R,107,min,Germany
+TV Show,Drama,1986,PG,2,Seasons,South Korea
+Movie,Comedy,1952,PG-13,1,Seasons,India
+TV Show,Thriller,1986,PG-13,178,min,Australia
+TV Show,Comedy,1974,R,2,Seasons,South Korea
+TV Show,Sci-Fi,2022,TV-14,1,Seasons,South Korea
+TV Show,Action,1950,G,157,min,Japan
+Movie,Action,1964,TV-MA,173,min,Canada
+TV Show,Documentary,1975,TV-PG,83,min,India
+Movie,Documentary,1993,TV-14,2,Seasons,Canada
+TV Show,Horror,1970,PG,1,Seasons,United States
+TV Show,Horror,2018,PG,134,min,Australia
+TV Show,Documentary,1975,PG,3,Seasons,India
+TV Show,Thriller,1965,G,2,Seasons,United Kingdom
+TV Show,Action,2005,PG,175,min,Japan
+Movie,Romance,1992,G,1,Seasons,United Kingdom
+Movie,Thriller,1992,PG,1,Seasons,Australia
+Movie,Comedy,1987,PG-13,105,min,Australia
+Movie,Action,1990,TV-PG,2,Seasons,Canada
+TV Show,Horror,2004,TV-MA,1,Seasons,United States
+TV Show,Action,1972,R,73,min,Japan
+TV Show,Romance,1954,PG,2,Seasons,United Kingdom
+Movie,Comedy,1980,TV-14,103,min,United Kingdom
+TV Show,Documentary,1951,TV-14,2,Seasons,Germany
+TV Show,Horror,1950,R,2,Seasons,United States
+TV Show,Documentary,1985,R,162,min,Japan
+TV Show,Action,2010,PG,116,min,Canada
+TV Show,Thriller,1957,TV-PG,155,min,Australia
+TV Show,Documentary,2013,PG,79,min,South Korea
+Movie,Thriller,1985,G,3,Seasons,Japan
+TV Show,Romance,1960,G,2,Seasons,Canada
+TV Show,Romance,1987,PG,3,Seasons,Japan
+TV Show,Romance,1973,G,3,Seasons,Japan
+TV Show,Romance,1950,G,1,Seasons,Germany
+TV Show,Sci-Fi,2019,PG-13,84,min,India
+Movie,Romance,2009,G,121,min,India
+TV Show,Horror,2017,PG-13,180,min,Germany
+Movie,Drama,1994,TV-MA,103,min,United States
+TV Show,Romance,2011,TV-PG,177,min,Australia
+TV Show,Drama,2012,TV-PG,121,min,Australia
+TV Show,Action,2018,TV-MA,1,Seasons,South Korea
+Movie,Comedy,1992,PG,3,Seasons,South Korea
+TV Show,Comedy,1980,TV-MA,66,min,United Kingdom
+TV Show,Romance,1957,PG-13,1,Seasons,Japan
+Movie,Romance,1980,TV-MA,2,Seasons,Germany
+Movie,Action,1959,PG,106,min,India
+Movie,Action,1993,TV-14,2,Seasons,United Kingdom
+Movie,Thriller,2004,PG,123,min,United Kingdom
+TV Show,Sci-Fi,1979,PG,2,Seasons,Australia
+Movie,Thriller,1975,TV-MA,3,Seasons,South Korea
+Movie,Sci-Fi,1961,G,3,Seasons,United States
+Movie,Action,2000,TV-14,178,min,Australia
+TV Show,Action,1958,PG-13,2,Seasons,India
+Movie,Thriller,1971,TV-MA,127,min,Australia
+Movie,Documentary,1969,TV-14,2,Seasons,United Kingdom
+TV Show,Sci-Fi,1982,TV-14,1,Seasons,United States
+Movie,Drama,1956,TV-MA,1,Seasons,Canada
+TV Show,Drama,1995,TV-MA,1,Seasons,Canada
+Movie,Romance,1958,PG,170,min,United Kingdom
+TV Show,Romance,2019,TV-14,159,min,India
+TV Show,Action,1958,PG,104,min,Canada
+Movie,Horror,2009,TV-PG,114,min,United Kingdom
+Movie,Romance,1971,G,175,min,Japan
+Movie,Comedy,1966,TV-MA,73,min,India
+Movie,Documentary,1971,PG-13,1,Seasons,Canada
+TV Show,Sci-Fi,1965,R,140,min,Japan
+Movie,Comedy,1961,TV-PG,1,Seasons,Japan
+Movie,Horror,2014,PG,139,min,Canada
+TV Show,Sci-Fi,1954,R,119,min,Australia
+Movie,Horror,2002,TV-MA,1,Seasons,Japan
+Movie,Horror,1970,G,3,Seasons,Australia
+Movie,Thriller,1956,PG,101,min,Australia
+TV Show,Sci-Fi,1979,TV-PG,1,Seasons,Japan
+TV Show,Horror,2008,TV-14,3,Seasons,United Kingdom
+Movie,Action,1957,R,2,Seasons,South Korea
+TV Show,Horror,1961,R,118,min,Germany
+TV Show,Thriller,1991,R,66,min,India
+Movie,Romance,1961,PG-13,93,min,Japan
+TV Show,Horror,2003,R,2,Seasons,India
+Movie,Thriller,2017,TV-MA,1,Seasons,Australia
+Movie,Comedy,1991,PG-13,1,Seasons,United States
+Movie,Sci-Fi,1972,PG-13,91,min,Germany
+TV Show,Romance,1962,PG,1,Seasons,Japan
+Movie,Action,1991,R,3,Seasons,United States
+Movie,Thriller,2005,TV-PG,2,Seasons,India
+Movie,Horror,1967,TV-PG,91,min,Canada
+TV Show,Documentary,2008,R,2,Seasons,Canada
+Movie,Sci-Fi,1964,PG,2,Seasons,United Kingdom
+Movie,Drama,1967,TV-PG,3,Seasons,Germany
+TV Show,Drama,1963,G,109,min,Canada
+Movie,Drama,1960,TV-MA,124,min,South Korea
+TV Show,Romance,1972,R,141,min,Canada
+Movie,Romance,2019,G,2,Seasons,United Kingdom
+Movie,Romance,1982,PG-13,3,Seasons,Japan
+TV Show,Action,1973,TV-MA,162,min,Australia
+Movie,Comedy,2022,TV-14,2,Seasons,United States
+Movie,Comedy,2016,G,2,Seasons,Australia
+TV Show,Action,2010,G,2,Seasons,India
+TV Show,Horror,1968,TV-MA,132,min,South Korea
+TV Show,Thriller,2009,PG,145,min,United States
+TV Show,Sci-Fi,1967,TV-MA,1,Seasons,Australia
+Movie,Drama,2020,TV-14,68,min,Australia
+TV Show,Comedy,1964,PG-13,2,Seasons,United Kingdom
+Movie,Horror,2012,PG-13,1,Seasons,United Kingdom
+Movie,Comedy,2022,R,60,min,Australia
+Movie,Romance,2016,TV-14,60,min,India
+TV Show,Action,2018,R,2,Seasons,Australia
+TV Show,Comedy,1972,PG,135,min,United Kingdom
+TV Show,Romance,1981,PG,2,Seasons,United Kingdom
+Movie,Horror,1972,PG,1,Seasons,India
+TV Show,Thriller,2014,PG-13,96,min,United States
+Movie,Horror,2002,TV-14,131,min,United Kingdom
+Movie,Horror,1990,PG,90,min,Canada
+TV Show,Action,1992,TV-14,136,min,South Korea
+Movie,Documentary,1964,G,3,Seasons,United States
+Movie,Action,1956,TV-14,1,Seasons,Canada
+Movie,Documentary,2014,PG-13,139,min,Canada
+TV Show,Comedy,1975,PG-13,164,min,South Korea
+TV Show,Documentary,1978,R,3,Seasons,Japan
+TV Show,Sci-Fi,1992,PG-13,134,min,United Kingdom
+Movie,Drama,1954,TV-PG,2,Seasons,Australia
+TV Show,Sci-Fi,2011,R,3,Seasons,Japan
+Movie,Documentary,2001,R,156,min,India
+Movie,Romance,1972,PG,77,min,Germany
+TV Show,Action,1986,PG,115,min,United States
+Movie,Horror,1962,TV-PG,136,min,Japan
+TV Show,Sci-Fi,1985,R,128,min,South Korea
+TV Show,Drama,1966,G,1,Seasons,Canada
+TV Show,Sci-Fi,1986,PG-13,92,min,Germany
+Movie,Drama,1956,R,173,min,Australia
+TV Show,Comedy,2011,R,79,min,Australia
+Movie,Action,1960,R,125,min,South Korea
+Movie,Romance,2005,G,1,Seasons,Japan
+Movie,Horror,2012,PG-13,1,Seasons,South Korea
+Movie,Sci-Fi,1998,PG,1,Seasons,Australia
+Movie,Comedy,1998,PG,2,Seasons,United States
+Movie,Romance,2002,TV-MA,82,min,United Kingdom
+TV Show,Drama,2005,PG,3,Seasons,South Korea
+TV Show,Action,1976,TV-14,171,min,United States
+TV Show,Romance,1989,TV-PG,2,Seasons,Germany
+Movie,Horror,1961,TV-MA,173,min,Germany
+Movie,Drama,1968,G,3,Seasons,Germany
+Movie,Drama,1987,PG,117,min,Australia
+TV Show,Thriller,2023,TV-14,109,min,Australia
+Movie,Documentary,1983,R,1,Seasons,Canada
+Movie,Sci-Fi,1975,R,3,Seasons,Germany
+Movie,Thriller,1990,TV-PG,110,min,Japan
+Movie,Documentary,1952,R,3,Seasons,United States
+Movie,Thriller,1963,G,2,Seasons,Germany
+Movie,Action,2016,R,77,min,Japan
+Movie,Horror,1989,TV-MA,86,min,United Kingdom
+Movie,Thriller,1980,PG,167,min,United States
+Movie,Horror,1981,PG,97,min,South Korea
+Movie,Horror,1991,PG,78,min,United States
+TV Show,Thriller,1976,PG,2,Seasons,United States
+Movie,Drama,2009,G,3,Seasons,Canada
+Movie,Thriller,1976,TV-MA,3,Seasons,United Kingdom
+TV Show,Action,1961,G,130,min,South Korea
+Movie,Drama,2002,PG,114,min,Canada
+Movie,Romance,1959,TV-MA,2,Seasons,Japan
+Movie,Horror,1989,TV-MA,108,min,Australia
+Movie,Thriller,1983,PG,1,Seasons,United Kingdom
+TV Show,Action,2013,PG-13,99,min,Canada
+TV Show,Sci-Fi,2010,TV-PG,81,min,Germany
+TV Show,Romance,2018,TV-14,107,min,Australia
+Movie,Horror,2022,PG-13,122,min,Germany
+Movie,Thriller,1980,PG,113,min,India
+TV Show,Documentary,1963,PG,136,min,United States
+TV Show,Sci-Fi,1988,TV-14,1,Seasons,India
+TV Show,Comedy,1987,TV-MA,2,Seasons,South Korea
+TV Show,Thriller,1956,TV-PG,72,min,South Korea
+TV Show,Sci-Fi,1959,TV-14,140,min,South Korea
+Movie,Thriller,1996,PG,172,min,Germany
+TV Show,Comedy,1986,PG-13,1,Seasons,United Kingdom
+Movie,Drama,1973,TV-MA,3,Seasons,United States
+Movie,Horror,2020,PG-13,129,min,United States
+Movie,Romance,1964,TV-PG,1,Seasons,Germany
+Movie,Documentary,1953,TV-14,163,min,Germany
+Movie,Action,1981,PG,3,Seasons,United Kingdom
+Movie,Thriller,2009,TV-PG,2,Seasons,South Korea
+TV Show,Sci-Fi,2006,PG-13,2,Seasons,Germany
+TV Show,Comedy,1984,PG-13,3,Seasons,United States
+Movie,Drama,1953,TV-14,115,min,United Kingdom
+TV Show,Sci-Fi,1968,R,91,min,India
+Movie,Romance,1996,TV-PG,85,min,Japan
+TV Show,Comedy,1990,TV-14,129,min,United States
+Movie,Romance,1960,TV-MA,104,min,United States
+TV Show,Drama,2001,PG,167,min,Australia
+Movie,Thriller,1951,PG,3,Seasons,Australia
+Movie,Documentary,1962,TV-MA,105,min,South Korea
+Movie,Romance,2002,G,1,Seasons,Japan
+Movie,Romance,1958,R,62,min,India
+TV Show,Romance,1989,G,1,Seasons,India
+Movie,Horror,1998,G,3,Seasons,Japan
+TV Show,Horror,1992,TV-14,3,Seasons,Japan
+Movie,Comedy,1952,G,1,Seasons,Germany
+Movie,Sci-Fi,1951,R,139,min,Japan
+Movie,Documentary,2021,TV-MA,116,min,South Korea
+Movie,Romance,1963,R,173,min,South Korea
+TV Show,Documentary,1989,TV-MA,2,Seasons,Germany
+Movie,Horror,1976,TV-MA,1,Seasons,Australia
+Movie,Drama,1984,G,98,min,Germany
+Movie,Thriller,1969,R,170,min,Canada
+Movie,Horror,1975,TV-MA,3,Seasons,Germany
+Movie,Action,2016,TV-14,60,min,South Korea
+TV Show,Horror,1998,TV-PG,1,Seasons,United States
+Movie,Horror,1982,PG,112,min,Canada
+Movie,Drama,2015,R,3,Seasons,Canada
+Movie,Horror,2017,PG-13,1,Seasons,Australia
+TV Show,Sci-Fi,2016,TV-PG,138,min,United Kingdom
+Movie,Romance,2023,PG-13,128,min,United States
+Movie,Horror,1951,TV-14,112,min,Canada
+TV Show,Drama,1968,R,1,Seasons,South Korea
+TV Show,Thriller,1978,TV-MA,165,min,India
+TV Show,Comedy,1980,PG,161,min,Japan
+TV Show,Horror,1976,PG,3,Seasons,Japan
+Movie,Comedy,1996,TV-PG,73,min,South Korea
+TV Show,Comedy,1973,TV-PG,108,min,Canada
+TV Show,Drama,1967,R,143,min,Germany
+Movie,Thriller,2011,PG-13,3,Seasons,South Korea
+TV Show,Action,2014,TV-MA,3,Seasons,India
+Movie,Drama,2017,TV-PG,145,min,Australia
+TV Show,Documentary,1968,R,2,Seasons,Germany
+TV Show,Action,1976,PG,173,min,India
+TV Show,Thriller,1991,G,111,min,South Korea
+TV Show,Horror,1988,R,83,min,South Korea
+TV Show,Romance,1993,TV-14,97,min,United States
+TV Show,Comedy,1995,TV-14,150,min,Germany
+Movie,Thriller,1977,TV-PG,1,Seasons,Canada
+Movie,Documentary,1992,PG,97,min,Japan
+Movie,Action,1988,PG,144,min,Canada
+TV Show,Drama,2010,TV-14,1,Seasons,Canada
+Movie,Horror,2018,R,3,Seasons,South Korea
+TV Show,Romance,2019,TV-MA,168,min,Australia
+TV Show,Action,2017,TV-PG,3,Seasons,Germany
+Movie,Drama,1999,TV-MA,65,min,United Kingdom
+Movie,Horror,1958,G,1,Seasons,United States
+TV Show,Horror,2019,R,90,min,Germany
+TV Show,Thriller,1965,PG-13,133,min,Canada
+TV Show,Thriller,1983,PG-13,3,Seasons,United Kingdom
+TV Show,Horror,1994,R,2,Seasons,South Korea
+Movie,Drama,1955,TV-14,3,Seasons,United Kingdom
+TV Show,Drama,1993,G,3,Seasons,United Kingdom
+Movie,Documentary,2002,PG-13,69,min,South Korea
+Movie,Thriller,1982,R,149,min,India
+TV Show,Drama,2011,TV-MA,78,min,South Korea
+TV Show,Action,1998,TV-14,68,min,Germany
+TV Show,Action,1966,R,3,Seasons,United States
+Movie,Horror,1960,TV-PG,1,Seasons,United Kingdom
+Movie,Action,1973,PG,66,min,United States
+Movie,Sci-Fi,2014,TV-MA,112,min,India
+Movie,Comedy,1969,PG-13,2,Seasons,Japan
+Movie,Sci-Fi,1993,TV-MA,179,min,Germany
+TV Show,Horror,1977,PG-13,74,min,Germany
+TV Show,Documentary,1994,PG,3,Seasons,South Korea
+TV Show,Thriller,2023,TV-PG,90,min,Japan
+TV Show,Drama,1971,TV-PG,1,Seasons,Japan
+TV Show,Thriller,1977,PG-13,3,Seasons,Australia
+Movie,Romance,2006,R,119,min,Japan
+TV Show,Drama,2004,R,3,Seasons,Germany
+Movie,Romance,1969,TV-MA,3,Seasons,South Korea
+Movie,Sci-Fi,1964,TV-MA,2,Seasons,Japan
+Movie,Horror,1963,TV-PG,3,Seasons,South Korea
+Movie,Drama,2010,G,1,Seasons,South Korea
+Movie,Romance,2016,TV-PG,2,Seasons,India
+Movie,Horror,1998,PG-13,60,min,United Kingdom
+TV Show,Documentary,1987,TV-14,1,Seasons,India
+TV Show,Drama,1961,G,155,min,Australia
+Movie,Drama,1967,G,65,min,India
+TV Show,Sci-Fi,2000,TV-14,1,Seasons,Canada
+TV Show,Horror,1995,TV-14,173,min,Canada
+TV Show,Romance,1955,PG,113,min,Germany
+TV Show,Romance,2000,G,2,Seasons,Australia
+Movie,Drama,2017,PG,95,min,Australia
+TV Show,Documentary,1999,TV-PG,2,Seasons,Germany
+TV Show,Comedy,1962,PG,2,Seasons,Canada
+Movie,Romance,1966,PG-13,137,min,Japan
+Movie,Romance,1965,PG-13,180,min,United States
+TV Show,Documentary,1983,R,1,Seasons,India
+Movie,Horror,1954,TV-MA,94,min,Japan
+Movie,Thriller,1971,PG,1,Seasons,Germany
+Movie,Drama,1953,TV-14,170,min,India
+TV Show,Drama,1993,TV-PG,104,min,South Korea
+TV Show,Drama,1974,PG-13,119,min,Japan
+TV Show,Sci-Fi,1983,TV-14,111,min,South Korea
+Movie,Horror,2016,TV-MA,93,min,South Korea
+Movie,Action,1971,PG,2,Seasons,United Kingdom
+TV Show,Drama,2015,G,114,min,Canada
+Movie,Horror,1989,PG,2,Seasons,South Korea
+Movie,Romance,1969,PG,77,min,South Korea
+Movie,Horror,2020,PG-13,130,min,South Korea
+Movie,Documentary,1985,G,87,min,United Kingdom
+Movie,Action,1955,G,1,Seasons,Canada
+Movie,Sci-Fi,2004,R,160,min,Germany
+Movie,Sci-Fi,2019,R,1,Seasons,Japan
+Movie,Action,2000,TV-PG,104,min,Canada
+Movie,Drama,2019,R,3,Seasons,India
+TV Show,Sci-Fi,1974,R,118,min,Australia
+Movie,Thriller,1966,G,146,min,Canada
+Movie,Drama,1992,G,108,min,United States
+TV Show,Sci-Fi,1972,PG-13,178,min,Canada
+TV Show,Romance,1979,G,3,Seasons,Canada
+Movie,Comedy,2002,R,3,Seasons,South Korea
+TV Show,Horror,2016,G,2,Seasons,United Kingdom
+TV Show,Action,1951,TV-14,126,min,United Kingdom
+Movie,Documentary,1950,TV-14,121,min,India
+TV Show,Sci-Fi,1975,TV-PG,2,Seasons,United States
+Movie,Action,1967,TV-MA,97,min,Germany
+Movie,Thriller,1965,PG,60,min,United States
+TV Show,Documentary,2013,PG-13,2,Seasons,Australia
+TV Show,Sci-Fi,1994,G,3,Seasons,Japan
+TV Show,Thriller,1966,PG,134,min,South Korea
+TV Show,Sci-Fi,2021,PG-13,3,Seasons,South Korea
+TV Show,Action,1979,G,3,Seasons,United States
+Movie,Thriller,2020,TV-MA,170,min,Japan
+TV Show,Action,1976,TV-MA,145,min,Japan
+TV Show,Documentary,1991,TV-PG,119,min,Canada
+TV Show,Romance,2000,R,2,Seasons,Australia
+TV Show,Action,2015,PG,84,min,India
+Movie,Horror,2020,PG-13,83,min,Canada
+Movie,Documentary,1991,TV-PG,2,Seasons,South Korea
+Movie,Documentary,1984,PG,137,min,Canada
+TV Show,Romance,2000,TV-PG,1,Seasons,South Korea
+TV Show,Romance,1978,PG-13,136,min,United States
+Movie,Action,1953,PG-13,3,Seasons,Canada
+Movie,Comedy,1990,TV-14,3,Seasons,South Korea
+TV Show,Horror,1963,TV-MA,3,Seasons,India
+TV Show,Comedy,1964,PG,82,min,United States
+Movie,Romance,2008,PG-13,1,Seasons,Germany
+Movie,Drama,2016,TV-PG,66,min,Germany
+Movie,Thriller,1968,PG-13,70,min,Japan
+Movie,Comedy,1994,G,177,min,India
+TV Show,Comedy,2011,TV-14,2,Seasons,Australia
+TV Show,Comedy,1961,G,3,Seasons,United States
+TV Show,Documentary,2015,TV-PG,89,min,Canada
+TV Show,Action,2018,G,170,min,Germany
+TV Show,Thriller,1994,PG-13,71,min,Germany
+TV Show,Thriller,1968,TV-14,63,min,United States
+Movie,Romance,2012,G,2,Seasons,Canada
+TV Show,Romance,2012,PG,3,Seasons,Canada
+Movie,Documentary,1983,PG,168,min,Germany
+TV Show,Comedy,1952,R,2,Seasons,United States
+Movie,Romance,2004,PG-13,2,Seasons,South Korea
+TV Show,Action,1976,TV-PG,2,Seasons,Canada
+Movie,Thriller,1979,TV-14,90,min,Canada
+TV Show,Sci-Fi,2001,G,174,min,Australia
+Movie,Romance,1998,PG,1,Seasons,Japan
+TV Show,Horror,1965,PG-13,2,Seasons,United States
+TV Show,Documentary,1959,TV-14,3,Seasons,India
+TV Show,Thriller,1957,TV-PG,161,min,Canada
+Movie,Drama,1981,PG-13,3,Seasons,Germany
+TV Show,Romance,2009,R,1,Seasons,South Korea
+Movie,Comedy,1993,TV-MA,147,min,Australia
+TV Show,Comedy,1991,PG-13,3,Seasons,Australia
+TV Show,Action,1993,G,125,min,India
+Movie,Thriller,1951,TV-MA,106,min,India
+TV Show,Drama,1981,TV-PG,1,Seasons,United States
+TV Show,Action,1999,G,64,min,United States
+TV Show,Documentary,1962,G,163,min,Germany
+Movie,Comedy,1997,PG,75,min,United States
+TV Show,Romance,2005,TV-14,84,min,South Korea
+TV Show,Sci-Fi,1966,G,1,Seasons,Germany
+TV Show,Documentary,1993,PG,1,Seasons,Japan
+TV Show,Action,1998,G,1,Seasons,United States
+TV Show,Sci-Fi,2015,R,2,Seasons,Germany
+Movie,Comedy,1990,R,60,min,United Kingdom
+Movie,Drama,1967,TV-PG,156,min,Canada
+TV Show,Drama,1996,PG-13,2,Seasons,Australia
+Movie,Action,2001,G,1,Seasons,India
+TV Show,Documentary,1952,TV-14,1,Seasons,Australia
+Movie,Thriller,2013,R,156,min,Canada
+TV Show,Thriller,1957,PG-13,162,min,Australia
+Movie,Action,1970,PG-13,2,Seasons,Japan
+TV Show,Horror,1988,G,113,min,Germany
+Movie,Thriller,1965,PG,2,Seasons,United Kingdom
+TV Show,Sci-Fi,1961,R,2,Seasons,Germany
+Movie,Thriller,1972,G,124,min,United States
+Movie,Drama,1972,TV-MA,3,Seasons,United Kingdom
+Movie,Thriller,1970,R,111,min,Japan
+Movie,Drama,2021,G,3,Seasons,South Korea
+Movie,Romance,1979,TV-MA,3,Seasons,Australia
+TV Show,Action,1950,G,156,min,Canada
+Movie,Documentary,2006,TV-PG,1,Seasons,Germany
+Movie,Romance,1996,PG,2,Seasons,United Kingdom
+TV Show,Drama,1989,TV-14,2,Seasons,United Kingdom
+TV Show,Documentary,2016,TV-PG,145,min,United Kingdom
+Movie,Romance,2020,TV-PG,75,min,Germany
+TV Show,Documentary,1986,PG,3,Seasons,Australia
+TV Show,Sci-Fi,1959,G,176,min,Canada
+Movie,Thriller,1997,TV-PG,173,min,India
+Movie,Thriller,1953,PG,3,Seasons,South Korea
+TV Show,Comedy,2003,TV-PG,77,min,Japan
+Movie,Thriller,1951,PG,94,min,Germany
+TV Show,Drama,1975,R,1,Seasons,Germany
+Movie,Thriller,1984,PG,2,Seasons,Japan
+TV Show,Thriller,1995,R,170,min,Japan
+Movie,Drama,2019,PG,1,Seasons,South Korea
+Movie,Horror,1953,PG-13,3,Seasons,Australia
+TV Show,Comedy,1976,G,101,min,Australia
+Movie,Thriller,1988,TV-14,1,Seasons,India
+Movie,Sci-Fi,1969,PG-13,1,Seasons,Germany
+Movie,Thriller,2023,PG-13,74,min,Japan
+TV Show,Action,1972,R,2,Seasons,South Korea
+TV Show,Drama,2005,PG,2,Seasons,United Kingdom
+TV Show,Sci-Fi,1967,TV-14,3,Seasons,United States
+Movie,Documentary,2014,PG-13,3,Seasons,Japan
+TV Show,Drama,2017,PG,150,min,India
+Movie,Drama,1981,TV-MA,73,min,Australia
+TV Show,Sci-Fi,2007,TV-PG,1,Seasons,United States
+Movie,Romance,1961,PG-13,176,min,Germany
+TV Show,Horror,1987,TV-PG,86,min,Germany
+TV Show,Horror,2015,R,3,Seasons,South Korea
+Movie,Thriller,1991,TV-MA,3,Seasons,Australia
+Movie,Documentary,1975,PG-13,179,min,Canada
+TV Show,Documentary,1967,TV-PG,1,Seasons,Canada
+Movie,Action,2002,TV-PG,1,Seasons,United States
+TV Show,Thriller,2006,TV-MA,174,min,United States
+TV Show,Comedy,1986,G,2,Seasons,South Korea
+TV Show,Horror,1964,TV-PG,72,min,United States
+TV Show,Thriller,1966,PG-13,3,Seasons,Canada
+TV Show,Horror,1994,TV-14,157,min,United States
+TV Show,Romance,1972,PG,3,Seasons,United States
+Movie,Documentary,2007,PG-13,84,min,United States
+TV Show,Romance,1963,R,3,Seasons,Germany
+Movie,Horror,1975,G,102,min,Australia
+Movie,Action,1980,TV-14,3,Seasons,Germany
+TV Show,Romance,1957,PG-13,93,min,South Korea
+TV Show,Comedy,1956,PG,62,min,Canada
+Movie,Drama,1976,TV-14,1,Seasons,South Korea
+TV Show,Sci-Fi,1965,PG-13,135,min,India
+TV Show,Comedy,2018,PG,1,Seasons,Germany
+TV Show,Action,1952,TV-PG,92,min,India
+Movie,Horror,2014,TV-14,1,Seasons,India
+Movie,Documentary,1968,TV-PG,1,Seasons,Australia
+TV Show,Romance,1971,PG,3,Seasons,Japan
+Movie,Sci-Fi,2004,TV-MA,136,min,South Korea
+Movie,Drama,1994,PG,88,min,United States
+TV Show,Documentary,1977,PG,1,Seasons,Japan
+TV Show,Comedy,1972,TV-14,86,min,India
+TV Show,Documentary,1980,R,1,Seasons,Canada
+Movie,Action,1997,TV-PG,112,min,United Kingdom
+TV Show,Drama,1950,R,93,min,India
+TV Show,Sci-Fi,1985,TV-MA,2,Seasons,United States
+TV Show,Drama,2005,TV-14,3,Seasons,Canada
+TV Show,Romance,1992,TV-14,145,min,Germany
+Movie,Thriller,2005,PG,1,Seasons,United States
+TV Show,Thriller,1976,TV-14,1,Seasons,Japan
+Movie,Action,1974,TV-MA,142,min,Australia
+TV Show,Horror,2005,TV-PG,86,min,United Kingdom
+Movie,Sci-Fi,1976,G,1,Seasons,Canada
+Movie,Comedy,2003,TV-14,1,Seasons,India
+Movie,Thriller,1990,TV-14,164,min,United States
+Movie,Horror,2020,R,115,min,India
+TV Show,Sci-Fi,1967,PG,1,Seasons,United States
+Movie,Action,1977,TV-MA,146,min,Germany
+TV Show,Sci-Fi,1978,PG-13,143,min,Germany
+TV Show,Thriller,2016,R,1,Seasons,South Korea
+Movie,Horror,1965,R,3,Seasons,United Kingdom
+TV Show,Action,2004,TV-PG,162,min,Canada
+TV Show,Action,1962,TV-MA,2,Seasons,Japan
+Movie,Documentary,1971,PG,77,min,United States
+TV Show,Drama,1952,PG-13,3,Seasons,Japan
+TV Show,Action,2012,PG-13,167,min,Canada
+TV Show,Thriller,1961,TV-MA,175,min,Japan
+TV Show,Documentary,1955,G,3,Seasons,Canada
+Movie,Romance,1971,TV-MA,82,min,United States
+TV Show,Documentary,1954,TV-PG,2,Seasons,Canada
+TV Show,Documentary,1950,TV-PG,77,min,Canada
+TV Show,Action,1996,PG,84,min,United Kingdom
+Movie,Thriller,1978,G,1,Seasons,Canada
+Movie,Action,1985,G,136,min,Germany
+TV Show,Horror,2020,G,159,min,United Kingdom
+Movie,Comedy,2006,TV-MA,2,Seasons,South Korea
+TV Show,Drama,1993,PG,3,Seasons,South Korea
+Movie,Horror,1984,PG,150,min,Germany
+Movie,Action,2003,PG-13,160,min,South Korea
+Movie,Drama,1986,PG-13,79,min,United States
+Movie,Horror,1974,R,3,Seasons,Canada
+TV Show,Documentary,1959,R,174,min,Canada
+Movie,Drama,1955,TV-14,1,Seasons,South Korea
+TV Show,Documentary,1990,TV-14,2,Seasons,Germany
+Movie,Horror,1996,PG-13,126,min,Japan
+Movie,Sci-Fi,2013,TV-PG,146,min,Japan
+TV Show,Action,1974,PG-13,2,Seasons,Germany
+TV Show,Comedy,1983,TV-14,3,Seasons,Australia
+TV Show,Comedy,2012,TV-MA,1,Seasons,Canada
+Movie,Drama,2023,PG,134,min,Australia
+Movie,Action,1978,TV-PG,65,min,United Kingdom
+TV Show,Drama,1993,TV-MA,1,Seasons,United States
+Movie,Action,1986,G,1,Seasons,Germany
+Movie,Horror,1965,G,164,min,Canada
+TV Show,Documentary,1992,R,171,min,Australia
+TV Show,Drama,1976,G,1,Seasons,Japan
+TV Show,Sci-Fi,1990,G,1,Seasons,Germany
+TV Show,Sci-Fi,1957,TV-MA,3,Seasons,India
+Movie,Documentary,1961,TV-MA,165,min,United States
+Movie,Sci-Fi,2008,TV-14,69,min,United Kingdom
+Movie,Horror,1956,G,155,min,Japan
+TV Show,Thriller,1988,TV-PG,1,Seasons,United States
+Movie,Drama,2016,TV-14,3,Seasons,United States
+Movie,Action,2003,PG-13,1,Seasons,India
+Movie,Horror,1995,G,155,min,Japan
+TV Show,Sci-Fi,2007,TV-PG,3,Seasons,Australia
+Movie,Romance,1985,PG,2,Seasons,United Kingdom
+Movie,Horror,1976,PG-13,1,Seasons,United Kingdom
+TV Show,Action,1979,G,68,min,Canada
+TV Show,Comedy,1962,TV-PG,2,Seasons,India
+Movie,Comedy,1953,PG-13,3,Seasons,Canada
+TV Show,Documentary,2019,TV-PG,141,min,India
+TV Show,Drama,2021,G,74,min,United States
+Movie,Thriller,1990,TV-PG,1,Seasons,Australia
+TV Show,Romance,1973,TV-PG,3,Seasons,Australia
+Movie,Thriller,2000,R,3,Seasons,South Korea
+TV Show,Thriller,1973,TV-MA,3,Seasons,Japan
+TV Show,Documentary,1974,G,91,min,South Korea
+Movie,Romance,1989,TV-PG,3,Seasons,United States
+TV Show,Sci-Fi,1973,G,3,Seasons,Australia
+TV Show,Drama,1963,TV-14,123,min,United Kingdom
+TV Show,Sci-Fi,1973,TV-14,158,min,Japan
+Movie,Horror,1982,TV-PG,2,Seasons,Canada
+TV Show,Horror,2014,PG,1,Seasons,Canada
+Movie,Action,2003,R,2,Seasons,Germany
+TV Show,Sci-Fi,2003,TV-14,143,min,Japan
+Movie,Documentary,1989,R,3,Seasons,Germany
+TV Show,Sci-Fi,1959,G,147,min,United Kingdom
+Movie,Romance,1970,TV-PG,2,Seasons,South Korea
+Movie,Sci-Fi,1989,TV-MA,2,Seasons,Australia
+Movie,Thriller,2012,TV-PG,2,Seasons,United States
+TV Show,Romance,2023,TV-14,180,min,Canada
+Movie,Romance,1952,TV-PG,1,Seasons,United States
+TV Show,Drama,1954,TV-MA,118,min,South Korea
+TV Show,Documentary,2015,PG-13,2,Seasons,South Korea
+TV Show,Action,1970,PG-13,3,Seasons,Canada
+TV Show,Action,1996,PG-13,3,Seasons,India
+Movie,Drama,1963,G,2,Seasons,Australia
+Movie,Documentary,1998,R,161,min,United Kingdom
+TV Show,Thriller,2009,TV-PG,68,min,Japan
+Movie,Comedy,1984,TV-MA,81,min,Germany
+Movie,Horror,1986,R,1,Seasons,India
+Movie,Romance,2011,PG-13,2,Seasons,Germany
+TV Show,Sci-Fi,2022,TV-14,1,Seasons,Canada
+TV Show,Thriller,2002,PG,98,min,United States
+Movie,Action,1961,PG,74,min,United States
+Movie,Sci-Fi,1990,TV-PG,101,min,Japan
+Movie,Sci-Fi,2010,TV-14,2,Seasons,South Korea
+Movie,Comedy,1951,PG,2,Seasons,Canada
+Movie,Documentary,2010,R,162,min,India
+TV Show,Action,2012,R,1,Seasons,India
+TV Show,Documentary,1974,R,2,Seasons,South Korea
+TV Show,Thriller,2015,TV-14,130,min,Canada
+TV Show,Action,1966,G,152,min,South Korea
+Movie,Action,1981,TV-14,81,min,Canada
+TV Show,Comedy,1995,G,103,min,Japan
+TV Show,Action,1980,PG-13,166,min,United States
+TV Show,Comedy,1958,G,2,Seasons,Canada
+Movie,Action,1960,TV-14,155,min,Canada
+TV Show,Romance,2005,TV-MA,2,Seasons,United States
+Movie,Action,1989,PG-13,3,Seasons,South Korea
+Movie,Action,1957,R,1,Seasons,United Kingdom
+Movie,Documentary,1962,TV-MA,64,min,Canada
+TV Show,Documentary,1963,TV-MA,80,min,United Kingdom
+Movie,Comedy,1974,G,173,min,United States
+TV Show,Romance,2014,PG-13,3,Seasons,Japan
+TV Show,Thriller,2023,TV-14,68,min,United Kingdom
+Movie,Drama,1959,PG,1,Seasons,United States
+TV Show,Romance,1973,G,2,Seasons,Australia
+TV Show,Documentary,1963,TV-MA,75,min,Canada
+TV Show,Sci-Fi,1970,PG-13,133,min,Japan
+Movie,Comedy,1981,G,1,Seasons,India
+Movie,Action,1995,TV-PG,91,min,United Kingdom
+Movie,Thriller,1999,TV-PG,3,Seasons,United States
+Movie,Comedy,2003,TV-PG,120,min,India
+TV Show,Thriller,1995,TV-PG,2,Seasons,United States
+Movie,Action,1964,R,1,Seasons,Japan
+TV Show,Romance,1997,TV-MA,1,Seasons,Canada
+Movie,Action,2004,TV-14,174,min,India
+Movie,Comedy,2005,G,1,Seasons,Germany
+Movie,Romance,1973,PG-13,151,min,United States
+Movie,Horror,2023,TV-PG,1,Seasons,South Korea
+Movie,Horror,1980,TV-MA,65,min,Japan
+TV Show,Drama,1961,R,136,min,United States
+TV Show,Romance,1981,TV-MA,67,min,Canada
+Movie,Horror,1985,R,2,Seasons,Canada
+Movie,Thriller,1954,PG,3,Seasons,South Korea
+Movie,Thriller,1953,R,71,min,Japan
+Movie,Romance,1950,G,2,Seasons,South Korea
+TV Show,Thriller,1983,TV-MA,86,min,South Korea
+Movie,Thriller,1958,TV-MA,60,min,Canada
+TV Show,Comedy,1989,PG,1,Seasons,Germany
+TV Show,Comedy,1967,TV-MA,1,Seasons,South Korea
+TV Show,Horror,1962,PG,119,min,South Korea
+Movie,Sci-Fi,1991,G,1,Seasons,United Kingdom
+Movie,Horror,2007,TV-MA,178,min,Australia
+Movie,Comedy,1993,TV-MA,61,min,Canada
+TV Show,Drama,1983,R,108,min,United States
+TV Show,Documentary,1971,G,63,min,South Korea
+Movie,Romance,1959,TV-14,76,min,South Korea
+TV Show,Sci-Fi,1980,TV-PG,2,Seasons,Japan
+TV Show,Drama,2022,G,71,min,United Kingdom
+Movie,Comedy,1988,G,88,min,Japan
+Movie,Documentary,1963,TV-14,1,Seasons,India
+TV Show,Documentary,1952,G,1,Seasons,Germany
+Movie,Sci-Fi,1979,G,172,min,United States
+TV Show,Thriller,2008,TV-PG,88,min,South Korea
+TV Show,Romance,2004,TV-14,170,min,Japan
+TV Show,Horror,2004,G,127,min,United States
+Movie,Romance,1996,TV-14,122,min,India
+TV Show,Comedy,1963,TV-MA,2,Seasons,Japan
+Movie,Horror,1966,TV-MA,1,Seasons,United States
+TV Show,Thriller,1973,PG,170,min,Canada
+TV Show,Comedy,2023,TV-14,115,min,Germany
+TV Show,Comedy,2016,G,2,Seasons,Canada
+TV Show,Comedy,1986,TV-14,116,min,Australia
+TV Show,Action,2018,TV-14,165,min,Canada
+Movie,Horror,2007,PG-13,3,Seasons,United Kingdom
+TV Show,Action,2001,TV-14,166,min,Japan
+TV Show,Romance,1968,G,90,min,Australia
+Movie,Documentary,1966,TV-PG,179,min,United States
+Movie,Horror,1955,TV-14,3,Seasons,South Korea
+TV Show,Drama,2007,PG-13,132,min,Germany
+Movie,Romance,1967,PG-13,1,Seasons,Japan
+Movie,Comedy,2010,TV-MA,1,Seasons,Australia
+TV Show,Drama,1958,PG-13,2,Seasons,Australia
+Movie,Comedy,1991,R,170,min,United Kingdom
+TV Show,Comedy,1953,G,2,Seasons,United States
+TV Show,Comedy,2014,G,2,Seasons,Australia
+TV Show,Comedy,2011,PG-13,3,Seasons,Canada
+TV Show,Sci-Fi,2000,PG,2,Seasons,United Kingdom
+Movie,Action,1966,PG,2,Seasons,Japan
+TV Show,Drama,1971,TV-MA,147,min,Australia
+Movie,Sci-Fi,1979,TV-14,1,Seasons,Australia
+Movie,Comedy,1978,TV-MA,178,min,India
+Movie,Comedy,1973,TV-MA,171,min,Japan
+Movie,Drama,2011,TV-MA,135,min,Australia
+Movie,Comedy,2007,R,3,Seasons,United Kingdom
+Movie,Drama,1953,TV-MA,74,min,Australia
+Movie,Horror,1955,TV-MA,1,Seasons,South Korea
+Movie,Action,2022,TV-14,2,Seasons,Germany
+Movie,Sci-Fi,2000,PG-13,3,Seasons,Canada
+TV Show,Drama,1972,TV-14,3,Seasons,Canada
+TV Show,Sci-Fi,1979,PG,144,min,Japan
+Movie,Horror,1984,R,1,Seasons,India
+TV Show,Sci-Fi,2009,G,155,min,Japan
+TV Show,Sci-Fi,1976,TV-PG,97,min,South Korea
+Movie,Thriller,1952,R,153,min,Australia
+Movie,Drama,1965,R,3,Seasons,Germany
+TV Show,Drama,1993,TV-PG,2,Seasons,India
+TV Show,Documentary,1995,PG-13,148,min,Australia
+Movie,Drama,2016,TV-MA,162,min,Australia
+TV Show,Romance,1970,PG,122,min,India
+TV Show,Horror,1967,PG,2,Seasons,India
+Movie,Drama,1962,TV-MA,3,Seasons,South Korea
+Movie,Documentary,2007,TV-MA,2,Seasons,Canada
+Movie,Action,1980,TV-PG,3,Seasons,Japan
+TV Show,Horror,1976,TV-MA,95,min,South Korea
+Movie,Action,2018,PG,72,min,United Kingdom
+Movie,Drama,2017,TV-PG,1,Seasons,India
+Movie,Action,1993,TV-MA,63,min,Australia
+TV Show,Sci-Fi,1952,PG,2,Seasons,South Korea
+Movie,Horror,1980,G,104,min,United States
+Movie,Horror,2015,TV-PG,3,Seasons,Canada
+TV Show,Documentary,1989,G,1,Seasons,India
+TV Show,Thriller,2013,PG-13,3,Seasons,Japan
+TV Show,Documentary,1991,TV-PG,156,min,United Kingdom
+TV Show,Sci-Fi,1956,G,2,Seasons,Japan
+Movie,Sci-Fi,1978,TV-14,2,Seasons,Germany
+Movie,Comedy,1956,R,79,min,Germany
+Movie,Sci-Fi,1993,TV-PG,132,min,Japan
+TV Show,Thriller,1979,PG-13,164,min,Germany
+TV Show,Documentary,2006,PG-13,165,min,South Korea
+TV Show,Comedy,1951,TV-MA,1,Seasons,Japan
+Movie,Drama,1955,PG-13,65,min,Australia
+TV Show,Thriller,2022,R,176,min,Germany
+Movie,Romance,1955,PG-13,3,Seasons,India
+Movie,Documentary,2009,TV-PG,153,min,Australia
+TV Show,Thriller,2002,TV-PG,98,min,Japan
+Movie,Romance,1981,G,61,min,United States
+TV Show,Thriller,1988,PG,2,Seasons,Germany
+TV Show,Horror,1975,TV-MA,1,Seasons,United States
+TV Show,Romance,2023,PG,3,Seasons,Canada
+Movie,Horror,1972,R,1,Seasons,Canada
+TV Show,Sci-Fi,2002,G,120,min,Canada
+Movie,Documentary,1990,R,129,min,Canada
+Movie,Sci-Fi,1971,TV-14,84,min,Canada
+Movie,Thriller,1966,TV-PG,92,min,United Kingdom
+TV Show,Horror,2013,TV-PG,76,min,India
+TV Show,Comedy,1972,TV-MA,2,Seasons,India
+Movie,Sci-Fi,2005,R,1,Seasons,India
+Movie,Drama,1999,PG,1,Seasons,Germany
+Movie,Drama,1968,R,1,Seasons,United Kingdom
+Movie,Horror,2019,TV-MA,2,Seasons,Germany
+Movie,Horror,2018,TV-14,2,Seasons,Australia
+Movie,Comedy,2007,PG-13,176,min,Australia
+TV Show,Drama,1990,TV-14,92,min,United States
+Movie,Comedy,2014,G,179,min,South Korea
+TV Show,Sci-Fi,1960,PG-13,1,Seasons,India
+Movie,Drama,1967,TV-PG,142,min,Japan
+TV Show,Romance,1971,TV-PG,163,min,Canada
+TV Show,Drama,1978,G,2,Seasons,Germany
+TV Show,Thriller,1974,TV-PG,90,min,Canada
+TV Show,Romance,2020,G,2,Seasons,Canada
+TV Show,Action,1950,TV-14,1,Seasons,India
+Movie,Thriller,1990,PG-13,1,Seasons,United States
+Movie,Thriller,1975,TV-14,3,Seasons,Japan
+Movie,Romance,1970,PG-13,148,min,United Kingdom
+TV Show,Sci-Fi,2017,G,98,min,Germany
+TV Show,Action,1953,TV-MA,151,min,Japan
+Movie,Comedy,1957,PG,121,min,United Kingdom
+Movie,Action,1978,PG-13,147,min,United Kingdom
+TV Show,Sci-Fi,1972,PG-13,137,min,South Korea
+TV Show,Documentary,1969,PG,3,Seasons,Germany
+Movie,Action,1954,TV-14,115,min,Canada
+TV Show,Romance,2011,TV-PG,69,min,Germany
+Movie,Drama,1971,G,63,min,Australia
+Movie,Action,1987,G,65,min,United States
+TV Show,Sci-Fi,1972,PG,109,min,Canada
+Movie,Romance,1955,PG,1,Seasons,United States
+Movie,Horror,2015,R,3,Seasons,United States
+TV Show,Action,2009,R,3,Seasons,United States
+TV Show,Sci-Fi,1950,TV-MA,3,Seasons,Canada
+TV Show,Documentary,1999,TV-PG,3,Seasons,South Korea
+TV Show,Horror,1960,TV-MA,129,min,India
+Movie,Sci-Fi,1984,R,79,min,United States
+Movie,Romance,1977,G,1,Seasons,Australia
+Movie,Drama,1954,R,2,Seasons,Germany
+Movie,Documentary,1976,R,91,min,Australia
+Movie,Action,1988,R,168,min,Canada
+Movie,Drama,1957,PG,97,min,Australia
+Movie,Sci-Fi,2007,PG-13,62,min,Germany
+TV Show,Comedy,1974,PG,148,min,Australia
+Movie,Action,2012,TV-14,92,min,Germany
+TV Show,Comedy,1951,TV-14,75,min,Australia
+TV Show,Horror,1997,TV-14,77,min,Japan
+Movie,Documentary,1972,PG-13,141,min,United Kingdom
+TV Show,Comedy,1991,TV-14,1,Seasons,Germany
+TV Show,Romance,1986,G,148,min,United Kingdom
+TV Show,Action,2016,G,115,min,United States
+TV Show,Romance,2015,PG-13,68,min,United Kingdom
+TV Show,Comedy,1962,TV-MA,84,min,United States
+Movie,Thriller,1982,G,105,min,Germany
+Movie,Thriller,1996,PG-13,2,Seasons,South Korea
+Movie,Horror,2006,R,3,Seasons,Germany
+Movie,Romance,1960,TV-MA,1,Seasons,Australia
+TV Show,Drama,1956,PG-13,172,min,Germany
+Movie,Comedy,2001,R,80,min,United States
+Movie,Action,2014,R,2,Seasons,Germany
+Movie,Documentary,1959,PG,3,Seasons,Japan
+Movie,Horror,2021,TV-14,140,min,Canada
+TV Show,Horror,1977,TV-PG,2,Seasons,Japan
+TV Show,Comedy,1955,PG,165,min,Australia
+Movie,Romance,2005,TV-PG,156,min,India
+Movie,Horror,2007,G,2,Seasons,South Korea
+Movie,Thriller,2007,G,155,min,Canada
+TV Show,Horror,1980,TV-PG,115,min,Canada
+Movie,Drama,1992,G,64,min,United Kingdom
+TV Show,Thriller,1975,TV-MA,92,min,India
+TV Show,Documentary,1989,TV-PG,75,min,Japan
+Movie,Romance,1954,G,118,min,South Korea
+Movie,Sci-Fi,2014,G,3,Seasons,Canada
+TV Show,Documentary,2018,R,3,Seasons,United States
+TV Show,Documentary,1991,TV-MA,101,min,Germany
+TV Show,Sci-Fi,1977,PG-13,104,min,Canada
+TV Show,Thriller,2002,TV-MA,144,min,Canada
+Movie,Action,1984,TV-PG,1,Seasons,United States
+Movie,Sci-Fi,2006,R,1,Seasons,United Kingdom
+TV Show,Sci-Fi,2018,PG,2,Seasons,India
+Movie,Horror,2002,R,3,Seasons,India
+TV Show,Sci-Fi,1990,PG-13,179,min,Australia
+TV Show,Comedy,1985,TV-PG,1,Seasons,India
+Movie,Sci-Fi,2012,PG-13,3,Seasons,Australia
+Movie,Drama,1968,TV-14,113,min,Canada
+TV Show,Thriller,1967,G,117,min,Canada
+Movie,Horror,1964,R,95,min,India
+Movie,Romance,1963,R,2,Seasons,Canada
+TV Show,Drama,1973,R,1,Seasons,South Korea
+Movie,Documentary,1974,TV-MA,167,min,Australia
+TV Show,Romance,1953,G,64,min,Australia
+Movie,Romance,2003,TV-MA,2,Seasons,Germany
+Movie,Documentary,1990,TV-14,160,min,South Korea
+Movie,Documentary,1976,R,2,Seasons,Australia
+Movie,Horror,2003,G,3,Seasons,United Kingdom
+TV Show,Drama,2012,PG-13,3,Seasons,South Korea
+Movie,Action,1974,PG-13,97,min,United States
+TV Show,Thriller,1968,G,2,Seasons,Germany
+TV Show,Documentary,1967,PG,2,Seasons,United Kingdom
+Movie,Drama,2023,PG-13,2,Seasons,Australia
+Movie,Drama,1972,R,1,Seasons,South Korea
+Movie,Horror,2000,TV-PG,175,min,Germany
+Movie,Action,1977,PG-13,2,Seasons,Germany
+TV Show,Romance,1959,R,140,min,United States
+Movie,Sci-Fi,1971,PG,1,Seasons,Canada
+TV Show,Thriller,1990,TV-PG,162,min,Germany
+TV Show,Action,2002,TV-MA,126,min,Japan
+Movie,Thriller,2014,TV-MA,108,min,India
+Movie,Horror,1975,R,106,min,Japan
+Movie,Action,1988,G,173,min,United Kingdom
+Movie,Horror,1999,TV-14,2,Seasons,United States
+TV Show,Romance,1987,PG,2,Seasons,Japan
+TV Show,Drama,2006,TV-PG,3,Seasons,United Kingdom
+Movie,Documentary,1961,G,83,min,United States
+Movie,Drama,2021,TV-PG,2,Seasons,Australia
+Movie,Thriller,2008,PG,2,Seasons,Japan
+Movie,Comedy,1985,TV-14,78,min,South Korea
+TV Show,Action,1953,TV-14,2,Seasons,South Korea
+TV Show,Horror,2005,PG-13,135,min,India
+Movie,Thriller,2011,R,3,Seasons,Canada
+TV Show,Comedy,1994,TV-MA,3,Seasons,United States
+TV Show,Horror,1968,TV-PG,2,Seasons,India
+Movie,Action,1983,PG,157,min,United Kingdom
+TV Show,Action,1973,R,3,Seasons,Germany
+TV Show,Sci-Fi,1993,TV-14,1,Seasons,South Korea
+TV Show,Action,2014,TV-MA,85,min,Japan
+TV Show,Action,1971,PG,135,min,Canada
+TV Show,Drama,2022,TV-14,61,min,Canada
+TV Show,Horror,1950,PG,2,Seasons,Canada
+TV Show,Drama,1981,PG-13,2,Seasons,South Korea
+Movie,Thriller,1998,TV-PG,175,min,Germany
+Movie,Sci-Fi,2002,PG,149,min,Japan
+Movie,Documentary,1994,PG-13,111,min,South Korea
+Movie,Comedy,1965,PG,90,min,Australia
+TV Show,Thriller,1955,TV-14,71,min,South Korea
+Movie,Thriller,1998,TV-PG,78,min,Canada
+Movie,Drama,1953,TV-MA,172,min,India
+TV Show,Comedy,2021,PG-13,1,Seasons,United States
+TV Show,Romance,1999,G,60,min,Australia
+Movie,Horror,1952,TV-14,2,Seasons,Canada
+Movie,Drama,2021,TV-PG,3,Seasons,South Korea
+TV Show,Documentary,1960,PG-13,125,min,Australia
+Movie,Romance,1956,PG,1,Seasons,Canada
+Movie,Romance,1982,PG-13,174,min,Germany
+Movie,Horror,2004,TV-14,3,Seasons,United Kingdom
+Movie,Romance,2011,G,1,Seasons,South Korea
+TV Show,Sci-Fi,2004,PG-13,1,Seasons,Australia
+TV Show,Thriller,2022,R,179,min,Australia
+TV Show,Thriller,1997,TV-14,173,min,Australia
+TV Show,Thriller,2015,TV-14,1,Seasons,Canada
+TV Show,Horror,2014,TV-14,1,Seasons,United Kingdom
+Movie,Action,1975,PG-13,135,min,South Korea
+TV Show,Action,1968,G,140,min,South Korea
+TV Show,Sci-Fi,2006,TV-PG,97,min,India
+Movie,Horror,1962,TV-MA,2,Seasons,Japan
+TV Show,Comedy,1999,TV-MA,163,min,Japan
+Movie,Documentary,1976,R,154,min,United States
+TV Show,Horror,2005,R,129,min,India
+TV Show,Drama,1993,TV-PG,3,Seasons,United Kingdom
+Movie,Documentary,1978,TV-MA,1,Seasons,United Kingdom
+Movie,Sci-Fi,1957,TV-PG,1,Seasons,United Kingdom
+TV Show,Drama,1969,PG,132,min,India
+TV Show,Sci-Fi,1983,PG,167,min,United States
+Movie,Horror,1957,TV-MA,70,min,South Korea
+TV Show,Documentary,2019,G,130,min,India
+TV Show,Sci-Fi,2001,PG,169,min,Japan
+TV Show,Romance,1958,TV-MA,3,Seasons,South Korea
+TV Show,Sci-Fi,2007,G,2,Seasons,Canada
+Movie,Horror,2019,G,2,Seasons,United States
+TV Show,Comedy,2012,TV-PG,176,min,Australia
+Movie,Drama,1952,G,107,min,Canada
+Movie,Comedy,1975,TV-PG,1,Seasons,Australia
+TV Show,Drama,1965,TV-MA,149,min,United States
+TV Show,Horror,1961,PG-13,3,Seasons,United States
+TV Show,Documentary,2018,PG,1,Seasons,Germany
+Movie,Drama,1962,TV-14,3,Seasons,Australia
+TV Show,Sci-Fi,1976,TV-14,64,min,United Kingdom
+TV Show,Sci-Fi,1996,TV-14,2,Seasons,Australia
+Movie,Thriller,1955,G,73,min,Canada
+TV Show,Documentary,1961,G,2,Seasons,Australia
+TV Show,Sci-Fi,1956,R,161,min,South Korea
+Movie,Comedy,1986,TV-MA,2,Seasons,India
+Movie,Drama,1998,PG,1,Seasons,Australia
+TV Show,Action,2008,G,172,min,India
+Movie,Documentary,1998,TV-MA,70,min,Canada
+TV Show,Romance,1974,TV-14,106,min,United Kingdom
+Movie,Thriller,2022,PG-13,1,Seasons,United Kingdom
+TV Show,Horror,1955,PG,97,min,United Kingdom
+Movie,Action,1985,G,2,Seasons,Canada
+TV Show,Drama,1992,TV-14,2,Seasons,Germany
+Movie,Horror,2016,PG-13,109,min,India
+TV Show,Drama,1976,G,111,min,Germany
+Movie,Sci-Fi,1987,PG-13,2,Seasons,South Korea
+Movie,Documentary,1990,TV-14,2,Seasons,South Korea
+TV Show,Sci-Fi,1999,PG,3,Seasons,Canada
+Movie,Sci-Fi,1965,TV-14,1,Seasons,India
+TV Show,Romance,1979,TV-14,112,min,Germany
+Movie,Action,2003,PG,3,Seasons,United States
+TV Show,Drama,1954,PG,2,Seasons,United States
+Movie,Sci-Fi,1973,TV-PG,2,Seasons,United Kingdom
+TV Show,Thriller,1968,TV-14,147,min,Japan
+Movie,Romance,1953,R,98,min,Germany
+TV Show,Drama,1951,PG-13,3,Seasons,Japan
+Movie,Horror,2003,G,2,Seasons,Canada
+TV Show,Action,2010,TV-MA,2,Seasons,South Korea
+Movie,Horror,2016,PG,173,min,South Korea
+Movie,Drama,1981,TV-PG,151,min,Germany
+TV Show,Documentary,2006,TV-MA,1,Seasons,Japan
+Movie,Romance,1974,TV-PG,169,min,Germany
+Movie,Thriller,2002,TV-MA,171,min,Germany
+Movie,Comedy,2006,PG-13,156,min,Canada
+TV Show,Sci-Fi,1994,G,3,Seasons,Australia
+Movie,Thriller,1982,TV-MA,3,Seasons,United Kingdom
+TV Show,Drama,1958,TV-14,2,Seasons,Canada
+Movie,Documentary,1996,PG-13,2,Seasons,Canada
+TV Show,Sci-Fi,2013,R,150,min,India
+Movie,Romance,1979,R,123,min,South Korea
+Movie,Action,2014,TV-MA,171,min,Australia
+Movie,Horror,1983,R,1,Seasons,Japan
+Movie,Comedy,1964,PG-13,2,Seasons,Japan
+Movie,Horror,2000,TV-MA,2,Seasons,United States
+Movie,Sci-Fi,1953,TV-PG,2,Seasons,United Kingdom
+Movie,Comedy,1957,R,3,Seasons,Germany
+TV Show,Comedy,2021,TV-PG,3,Seasons,Canada
+TV Show,Documentary,1957,TV-PG,2,Seasons,Japan
+TV Show,Horror,1982,PG,2,Seasons,United States
+TV Show,Drama,1991,TV-MA,168,min,Germany
+TV Show,Romance,2022,TV-MA,180,min,India
+Movie,Comedy,1988,G,3,Seasons,Germany
+TV Show,Action,1978,R,104,min,Japan
+TV Show,Action,2015,TV-MA,3,Seasons,Canada
+Movie,Documentary,1984,R,144,min,India
+TV Show,Documentary,2001,PG-13,1,Seasons,United Kingdom
+TV Show,Horror,1973,G,171,min,Germany
+TV Show,Drama,1977,R,174,min,Australia
+TV Show,Documentary,1990,PG,1,Seasons,South Korea
+TV Show,Thriller,2014,G,134,min,South Korea
+Movie,Romance,1969,TV-MA,3,Seasons,Germany
+Movie,Thriller,1970,R,3,Seasons,United States
+Movie,Comedy,1953,TV-MA,2,Seasons,Canada
+TV Show,Thriller,1974,TV-MA,69,min,Canada
+Movie,Thriller,1975,TV-14,2,Seasons,United States
+Movie,Drama,2005,TV-PG,157,min,Australia
+TV Show,Documentary,2009,R,1,Seasons,Australia
+TV Show,Action,1975,R,3,Seasons,South Korea
+TV Show,Romance,2008,PG-13,162,min,Australia
+Movie,Thriller,1977,TV-MA,2,Seasons,Australia
+Movie,Documentary,1960,R,168,min,Japan
+TV Show,Thriller,1992,TV-MA,125,min,United Kingdom
+TV Show,Comedy,1960,R,1,Seasons,South Korea
+Movie,Sci-Fi,2014,PG,148,min,India
+TV Show,Drama,2011,R,138,min,Japan
+Movie,Horror,1996,TV-PG,3,Seasons,Japan
+Movie,Thriller,2005,R,95,min,Australia
+Movie,Comedy,1979,TV-MA,1,Seasons,United Kingdom
+TV Show,Drama,1959,TV-14,144,min,Germany
+Movie,Drama,2005,TV-PG,130,min,Canada
+Movie,Comedy,2009,TV-MA,1,Seasons,Australia
+Movie,Documentary,2010,TV-PG,90,min,United Kingdom
+TV Show,Horror,2011,TV-MA,3,Seasons,South Korea
+TV Show,Comedy,1983,TV-PG,165,min,United Kingdom
+Movie,Horror,1986,G,1,Seasons,United Kingdom
+Movie,Drama,1998,PG-13,2,Seasons,Japan
+TV Show,Documentary,2008,TV-14,150,min,South Korea
+Movie,Action,2002,PG,3,Seasons,South Korea
+Movie,Comedy,1998,PG,3,Seasons,United States
+Movie,Romance,1967,TV-PG,128,min,South Korea
+TV Show,Horror,1953,G,117,min,Canada
+TV Show,Drama,1975,G,60,min,Australia
+Movie,Comedy,1953,R,131,min,United Kingdom
+TV Show,Drama,1983,PG,159,min,South Korea
+Movie,Documentary,2002,TV-MA,2,Seasons,Germany
+Movie,Romance,1984,PG,2,Seasons,South Korea
+TV Show,Comedy,2018,TV-PG,172,min,South Korea
+Movie,Action,2003,TV-14,91,min,South Korea
+Movie,Documentary,2015,TV-PG,2,Seasons,Australia
+Movie,Drama,2004,PG-13,107,min,Germany
+TV Show,Comedy,2008,PG-13,2,Seasons,United States
+TV Show,Sci-Fi,2017,G,127,min,India
+TV Show,Sci-Fi,1986,PG-13,170,min,South Korea
+TV Show,Documentary,2014,G,115,min,United States
+TV Show,Action,1962,G,74,min,Australia
+TV Show,Horror,1972,PG-13,1,Seasons,Australia
+TV Show,Documentary,2010,PG,66,min,Japan
+TV Show,Drama,1962,R,1,Seasons,South Korea
+Movie,Documentary,1986,G,3,Seasons,Germany
+Movie,Drama,2013,PG,3,Seasons,Japan
+TV Show,Drama,2010,PG-13,1,Seasons,Australia
+TV Show,Comedy,1986,PG-13,3,Seasons,United States
+Movie,Sci-Fi,1969,G,3,Seasons,Australia
+Movie,Thriller,2006,PG-13,92,min,Germany
+TV Show,Romance,1957,TV-14,3,Seasons,United Kingdom
+TV Show,Thriller,1951,PG-13,111,min,Japan
+Movie,Documentary,2003,TV-PG,103,min,United Kingdom
+TV Show,Action,1997,PG,113,min,Canada
+TV Show,Action,2014,PG,145,min,United Kingdom
+TV Show,Drama,1969,TV-14,3,Seasons,Japan
+TV Show,Romance,1979,TV-14,2,Seasons,United Kingdom
+Movie,Horror,1996,TV-14,175,min,United States
+TV Show,Drama,2002,PG-13,116,min,India
+Movie,Drama,1998,PG,3,Seasons,Canada
+Movie,Comedy,1950,TV-PG,3,Seasons,Canada
+Movie,Comedy,2018,TV-PG,2,Seasons,United States
+TV Show,Comedy,1955,TV-PG,143,min,South Korea
+Movie,Comedy,2021,PG-13,83,min,Canada
+Movie,Sci-Fi,1964,PG-13,2,Seasons,India
+Movie,Sci-Fi,2007,R,2,Seasons,Germany
+Movie,Thriller,1972,TV-14,94,min,Japan
+TV Show,Romance,1968,TV-14,60,min,United Kingdom
+TV Show,Documentary,1976,TV-PG,166,min,South Korea
+TV Show,Thriller,1958,PG,3,Seasons,United States
+TV Show,Horror,2011,R,156,min,United Kingdom
+TV Show,Sci-Fi,2006,TV-14,141,min,Canada
+Movie,Documentary,1991,TV-PG,2,Seasons,Canada
+TV Show,Drama,2008,R,64,min,South Korea
+Movie,Thriller,1988,PG-13,104,min,India
+Movie,Action,1974,G,1,Seasons,India
+TV Show,Documentary,1982,PG,139,min,United States
+Movie,Thriller,1970,TV-MA,2,Seasons,Australia
+Movie,Action,1985,TV-14,1,Seasons,India
+Movie,Comedy,1962,TV-PG,2,Seasons,South Korea
+TV Show,Comedy,2002,PG,148,min,United States
+TV Show,Drama,1957,TV-PG,152,min,Canada
+TV Show,Horror,1965,G,174,min,India
+TV Show,Sci-Fi,1983,G,1,Seasons,South Korea
+TV Show,Documentary,2010,TV-14,162,min,United Kingdom
+TV Show,Romance,1986,TV-MA,79,min,India
+TV Show,Drama,1959,TV-14,3,Seasons,Canada
+Movie,Sci-Fi,1991,TV-14,3,Seasons,Japan
+Movie,Action,1968,TV-MA,2,Seasons,United Kingdom
+Movie,Romance,1992,TV-PG,128,min,India
+Movie,Action,2021,TV-14,70,min,United States
+Movie,Thriller,2021,G,100,min,United States
+Movie,Romance,1977,TV-14,3,Seasons,Japan
+TV Show,Sci-Fi,1956,PG-13,166,min,Germany
+Movie,Horror,2010,TV-14,2,Seasons,United Kingdom
+Movie,Drama,1989,G,63,min,South Korea
+TV Show,Romance,2016,PG-13,3,Seasons,India
+Movie,Action,1965,TV-MA,137,min,Canada
+Movie,Action,2000,PG-13,123,min,United Kingdom
+Movie,Romance,1993,R,1,Seasons,Australia
+Movie,Horror,1966,R,2,Seasons,Canada
+TV Show,Documentary,1969,PG-13,116,min,India
+TV Show,Comedy,2002,TV-MA,89,min,United States
+Movie,Horror,1985,TV-MA,2,Seasons,Germany
+Movie,Sci-Fi,1984,TV-MA,98,min,Canada
+Movie,Thriller,2001,TV-14,2,Seasons,Germany
+TV Show,Romance,2009,TV-MA,3,Seasons,United Kingdom
+Movie,Drama,2012,R,98,min,Australia
+Movie,Romance,1965,PG-13,90,min,Australia
+Movie,Documentary,2005,G,2,Seasons,United States
+Movie,Sci-Fi,2001,R,1,Seasons,Australia
+TV Show,Romance,1950,G,137,min,Germany
+TV Show,Action,1984,PG-13,160,min,United Kingdom
+TV Show,Drama,1980,PG,66,min,United States
+TV Show,Comedy,1985,TV-MA,111,min,Japan
+TV Show,Thriller,2006,G,3,Seasons,Canada
+Movie,Thriller,2022,PG-13,144,min,Canada
+TV Show,Horror,1990,PG-13,77,min,Australia
+TV Show,Drama,1974,TV-14,80,min,United States
+TV Show,Sci-Fi,1958,R,133,min,Australia
+Movie,Thriller,1958,PG,3,Seasons,Australia
+Movie,Comedy,1956,TV-14,156,min,United States
+Movie,Thriller,1956,PG,2,Seasons,Germany
+TV Show,Sci-Fi,1956,TV-MA,67,min,Germany
+Movie,Sci-Fi,2010,TV-PG,98,min,South Korea
+TV Show,Documentary,1951,PG-13,143,min,South Korea
+Movie,Action,1963,R,157,min,United Kingdom
+TV Show,Romance,1997,TV-PG,61,min,Australia
+TV Show,Action,2017,PG,1,Seasons,United States
+Movie,Sci-Fi,2020,TV-14,92,min,Germany
+Movie,Documentary,1954,TV-14,1,Seasons,United Kingdom
+Movie,Documentary,2005,TV-14,164,min,Germany
+Movie,Romance,1967,G,91,min,South Korea
+TV Show,Horror,2001,G,1,Seasons,Canada
+Movie,Action,1967,PG,1,Seasons,South Korea
+TV Show,Documentary,1972,G,3,Seasons,Australia
+TV Show,Documentary,1964,TV-PG,71,min,India
+Movie,Thriller,1988,PG,172,min,United Kingdom
+Movie,Documentary,1988,TV-PG,74,min,Japan
+Movie,Horror,2002,TV-14,173,min,United States
+Movie,Action,1966,TV-PG,3,Seasons,Japan
+TV Show,Sci-Fi,2017,G,2,Seasons,Australia
+Movie,Thriller,1952,PG,170,min,Australia
+Movie,Action,1958,TV-14,157,min,Germany
+Movie,Sci-Fi,1958,R,3,Seasons,United States
+Movie,Thriller,1967,TV-MA,148,min,Australia
+Movie,Romance,2015,R,1,Seasons,United Kingdom
+Movie,Romance,1955,PG-13,100,min,Canada
+TV Show,Thriller,2020,R,2,Seasons,United Kingdom
+TV Show,Romance,2022,TV-PG,1,Seasons,South Korea
+TV Show,Sci-Fi,2000,TV-MA,2,Seasons,Canada
+TV Show,Thriller,2005,G,69,min,United States
+Movie,Horror,1974,R,3,Seasons,Germany
+Movie,Action,1953,G,99,min,United States
+Movie,Comedy,1956,TV-PG,151,min,India
+TV Show,Drama,1979,PG,139,min,United Kingdom
+Movie,Thriller,2014,PG-13,1,Seasons,United Kingdom
+Movie,Comedy,1962,PG-13,2,Seasons,United States
+TV Show,Romance,2013,G,2,Seasons,South Korea
+TV Show,Sci-Fi,1965,PG,2,Seasons,United Kingdom
+TV Show,Horror,1975,TV-MA,151,min,Canada
+TV Show,Thriller,1959,PG,156,min,South Korea
+TV Show,Horror,1994,TV-PG,3,Seasons,India
+TV Show,Documentary,1967,PG,89,min,South Korea
+Movie,Romance,1966,G,161,min,South Korea
+Movie,Thriller,1980,R,77,min,United States
+Movie,Thriller,1976,TV-PG,2,Seasons,South Korea
+Movie,Drama,1988,G,116,min,United States
+TV Show,Romance,1985,PG-13,2,Seasons,India
+Movie,Drama,1955,R,3,Seasons,Canada
+TV Show,Romance,1981,R,122,min,United Kingdom
+Movie,Horror,1967,PG-13,2,Seasons,Japan
+TV Show,Drama,1956,TV-PG,2,Seasons,United States
+TV Show,Sci-Fi,1977,TV-PG,179,min,Canada
+Movie,Action,1999,G,3,Seasons,Japan
+TV Show,Horror,1967,R,159,min,Germany
+TV Show,Drama,2001,TV-14,144,min,Japan
+Movie,Comedy,2022,PG,1,Seasons,United Kingdom
+Movie,Action,1950,R,1,Seasons,India
+TV Show,Action,1967,TV-MA,80,min,Canada
+Movie,Romance,2018,R,3,Seasons,United States
+Movie,Horror,1957,PG,162,min,United Kingdom
+Movie,Drama,1960,PG,1,Seasons,United States
+TV Show,Horror,1983,PG-13,2,Seasons,South Korea
+Movie,Thriller,1957,PG,123,min,Canada
+TV Show,Sci-Fi,1998,PG,1,Seasons,Japan
+Movie,Drama,1964,PG,3,Seasons,United States
+Movie,Horror,1991,G,96,min,Australia
+TV Show,Sci-Fi,1993,TV-MA,102,min,United States
+TV Show,Horror,2004,TV-14,150,min,South Korea
+Movie,Romance,2015,R,3,Seasons,United States
+TV Show,Comedy,1955,TV-14,167,min,India
+Movie,Horror,2004,TV-14,74,min,Australia
+TV Show,Thriller,1987,PG,62,min,Canada
+TV Show,Sci-Fi,2020,G,1,Seasons,South Korea
+TV Show,Comedy,2008,TV-MA,3,Seasons,United Kingdom
+Movie,Thriller,1960,G,2,Seasons,United States
+Movie,Horror,1951,PG,152,min,India
+Movie,Romance,2005,PG,139,min,Australia
+TV Show,Thriller,1982,G,95,min,United Kingdom
+Movie,Horror,1963,TV-14,140,min,Canada
+TV Show,Horror,2019,PG,90,min,South Korea
+TV Show,Drama,2005,TV-PG,2,Seasons,Australia
+TV Show,Thriller,1990,G,3,Seasons,Japan
+TV Show,Action,2003,TV-PG,110,min,United States
+Movie,Action,1988,TV-MA,1,Seasons,Germany
+Movie,Romance,1996,PG-13,126,min,United Kingdom
+TV Show,Sci-Fi,1981,TV-MA,2,Seasons,South Korea
+TV Show,Action,1994,R,63,min,United States
+TV Show,Action,2006,PG-13,1,Seasons,Australia
+Movie,Comedy,1967,G,2,Seasons,United Kingdom
+TV Show,Romance,1980,R,171,min,Australia
+TV Show,Comedy,2015,PG,1,Seasons,Germany
+TV Show,Documentary,1973,G,1,Seasons,Australia
+Movie,Documentary,2013,R,97,min,Canada
+TV Show,Thriller,1975,TV-MA,139,min,South Korea
+TV Show,Comedy,1997,PG,168,min,Canada
+TV Show,Horror,1970,PG-13,1,Seasons,United States
+TV Show,Action,1985,PG,1,Seasons,Australia
+TV Show,Horror,2008,PG,2,Seasons,United Kingdom
+TV Show,Thriller,1969,TV-MA,1,Seasons,United States
+Movie,Romance,1995,PG-13,1,Seasons,Australia
+TV Show,Documentary,2020,G,2,Seasons,South Korea
+TV Show,Thriller,1956,PG,101,min,United Kingdom
+TV Show,Comedy,1952,G,1,Seasons,South Korea
+Movie,Thriller,1951,R,120,min,Canada
+Movie,Drama,2015,TV-PG,1,Seasons,Canada
+TV Show,Drama,2003,PG,1,Seasons,United States
+TV Show,Sci-Fi,1957,G,3,Seasons,United States
+Movie,Romance,1996,PG,2,Seasons,South Korea
+Movie,Horror,2020,G,95,min,United States
+TV Show,Sci-Fi,1979,PG,150,min,United States
+TV Show,Sci-Fi,1992,PG-13,131,min,Australia
+Movie,Romance,2005,R,97,min,Japan
+Movie,Thriller,1966,PG,3,Seasons,Canada
+Movie,Comedy,2015,PG-13,137,min,Japan
+TV Show,Comedy,2022,PG-13,1,Seasons,United Kingdom
+Movie,Drama,1990,TV-MA,86,min,Australia
+TV Show,Documentary,1994,TV-MA,72,min,United Kingdom
+TV Show,Action,1978,TV-PG,175,min,Germany
+TV Show,Documentary,2010,G,101,min,Australia
+TV Show,Drama,1956,G,172,min,United States
+Movie,Romance,1987,TV-MA,2,Seasons,Germany
+Movie,Sci-Fi,1991,PG,175,min,Japan
+Movie,Horror,2018,TV-14,3,Seasons,Australia
+Movie,Thriller,2002,R,3,Seasons,United Kingdom
+TV Show,Action,1996,TV-14,94,min,Japan
+TV Show,Horror,1951,TV-14,151,min,Canada
+Movie,Thriller,1977,TV-14,87,min,Germany
+Movie,Romance,1961,G,1,Seasons,Canada
+TV Show,Thriller,1953,PG,155,min,India
+Movie,Romance,1955,TV-14,166,min,Canada
+TV Show,Thriller,1970,TV-PG,100,min,United States
+TV Show,Romance,1958,TV-PG,2,Seasons,Japan
+Movie,Sci-Fi,1959,G,2,Seasons,India
+Movie,Thriller,1973,PG,2,Seasons,Japan
+Movie,Comedy,1967,TV-PG,2,Seasons,United Kingdom
+TV Show,Horror,1981,PG-13,108,min,Canada
+Movie,Sci-Fi,1951,TV-PG,62,min,India
+TV Show,Action,1965,PG,104,min,India
+Movie,Romance,2007,TV-MA,1,Seasons,United Kingdom
+Movie,Drama,2005,R,111,min,Australia
+TV Show,Thriller,1991,PG,1,Seasons,Canada
+Movie,Documentary,1966,PG,64,min,United Kingdom
+Movie,Documentary,1959,TV-PG,2,Seasons,Australia
+TV Show,Romance,1950,R,3,Seasons,Canada
+Movie,Documentary,2020,TV-14,2,Seasons,India
+Movie,Comedy,1970,PG,112,min,South Korea
+TV Show,Action,1981,PG-13,108,min,Canada
+Movie,Romance,1984,TV-PG,174,min,Germany
+Movie,Thriller,1995,R,1,Seasons,United Kingdom
+TV Show,Documentary,1986,TV-PG,164,min,Australia
+Movie,Horror,1958,R,104,min,South Korea
+Movie,Thriller,2023,PG,88,min,Japan
+Movie,Romance,1972,PG-13,161,min,Canada
+Movie,Horror,1989,PG,114,min,Australia
+TV Show,Sci-Fi,2021,TV-PG,3,Seasons,United States
+Movie,Horror,2021,TV-PG,2,Seasons,Japan
+Movie,Sci-Fi,1993,R,1,Seasons,United States
+Movie,Thriller,1988,G,2,Seasons,United Kingdom
+TV Show,Documentary,1965,PG,2,Seasons,South Korea
+Movie,Documentary,1993,R,3,Seasons,United States
+Movie,Drama,1968,G,124,min,Germany
+TV Show,Sci-Fi,1963,TV-MA,1,Seasons,United Kingdom
+Movie,Sci-Fi,1973,PG-13,106,min,Japan
+TV Show,Documentary,1980,PG-13,3,Seasons,Japan
+Movie,Thriller,1966,TV-MA,1,Seasons,South Korea
+Movie,Action,2017,TV-PG,159,min,United States
+Movie,Drama,2006,R,2,Seasons,India
+TV Show,Documentary,1987,TV-PG,127,min,United States
+TV Show,Documentary,1998,TV-PG,92,min,Australia
+TV Show,Horror,2015,PG,1,Seasons,Japan
+TV Show,Horror,2020,TV-14,76,min,United States
+TV Show,Horror,1988,TV-14,2,Seasons,Canada
+TV Show,Documentary,1979,PG-13,3,Seasons,Canada
+TV Show,Thriller,1996,TV-MA,151,min,Australia
+TV Show,Action,1957,PG,2,Seasons,Australia
+Movie,Action,2001,G,74,min,India
+TV Show,Action,1975,TV-PG,1,Seasons,Japan
+Movie,Drama,2014,TV-14,3,Seasons,South Korea
+Movie,Sci-Fi,2007,TV-PG,3,Seasons,South Korea
+TV Show,Documentary,2008,TV-14,128,min,United States
+TV Show,Thriller,1952,TV-14,2,Seasons,Germany
+Movie,Romance,2023,TV-PG,135,min,United Kingdom
+TV Show,Documentary,2008,TV-14,2,Seasons,South Korea
+Movie,Comedy,2003,PG-13,3,Seasons,Germany
+TV Show,Thriller,2019,TV-MA,150,min,Japan
+Movie,Sci-Fi,2001,PG-13,116,min,India
+Movie,Romance,2000,R,1,Seasons,India
+TV Show,Romance,2005,TV-PG,110,min,Australia
+Movie,Sci-Fi,1990,R,3,Seasons,India
+Movie,Action,2005,G,1,Seasons,United Kingdom
+Movie,Romance,2008,TV-PG,1,Seasons,Australia
+TV Show,Drama,2000,TV-14,3,Seasons,Germany
+TV Show,Sci-Fi,1960,TV-MA,69,min,South Korea
+Movie,Horror,2015,R,91,min,United States
+Movie,Comedy,1968,TV-MA,162,min,South Korea
+Movie,Documentary,2004,G,3,Seasons,Germany
+Movie,Documentary,1971,PG,2,Seasons,Canada
+Movie,Romance,1977,TV-14,76,min,Australia
+TV Show,Action,1999,TV-PG,101,min,Canada
+TV Show,Romance,2017,R,177,min,Canada
+TV Show,Sci-Fi,1999,PG,151,min,South Korea
+TV Show,Comedy,1968,PG,2,Seasons,Canada
+TV Show,Action,1966,PG,2,Seasons,Canada
+TV Show,Action,2009,TV-MA,148,min,South Korea
+TV Show,Comedy,2006,TV-14,1,Seasons,Australia
+TV Show,Action,1975,TV-PG,77,min,South Korea
+TV Show,Documentary,1980,TV-14,1,Seasons,United Kingdom
+Movie,Drama,1970,TV-PG,1,Seasons,United Kingdom
+TV Show,Thriller,2008,PG,174,min,Canada
+TV Show,Sci-Fi,2000,TV-MA,63,min,Japan
+TV Show,Sci-Fi,2016,TV-PG,113,min,Germany
+TV Show,Action,2012,PG,98,min,South Korea
+Movie,Thriller,1957,TV-MA,147,min,South Korea
+Movie,Action,2007,TV-MA,114,min,India
+Movie,Action,1971,PG,73,min,Canada
+TV Show,Sci-Fi,1994,PG-13,113,min,India
+TV Show,Horror,1966,TV-PG,157,min,South Korea
+TV Show,Documentary,1962,PG-13,107,min,Germany
+Movie,Comedy,1993,TV-14,2,Seasons,Japan
+Movie,Sci-Fi,1957,R,1,Seasons,United States
+TV Show,Thriller,2015,G,3,Seasons,United States
+TV Show,Documentary,1976,PG-13,3,Seasons,Japan
+Movie,Thriller,1957,R,89,min,Japan
+TV Show,Romance,1959,TV-MA,2,Seasons,Australia
+TV Show,Horror,2007,PG-13,147,min,United Kingdom
+TV Show,Horror,2013,PG,179,min,United Kingdom
+Movie,Drama,2015,PG-13,3,Seasons,Germany
+Movie,Documentary,1975,TV-14,169,min,Germany
+Movie,Horror,1990,TV-PG,2,Seasons,Canada
+TV Show,Horror,1988,TV-MA,1,Seasons,United Kingdom
+Movie,Action,2000,R,2,Seasons,United Kingdom
+Movie,Documentary,1986,TV-PG,1,Seasons,Germany
+Movie,Thriller,2003,R,1,Seasons,United States
+Movie,Romance,1959,TV-PG,2,Seasons,Canada
+TV Show,Comedy,1991,PG,101,min,Australia
+TV Show,Sci-Fi,1997,TV-14,91,min,United Kingdom
+Movie,Romance,1967,R,159,min,United States
+TV Show,Documentary,1972,TV-14,83,min,India
+TV Show,Romance,1963,TV-14,1,Seasons,United States
+TV Show,Documentary,2004,PG,3,Seasons,Canada
+TV Show,Action,1962,PG-13,3,Seasons,India
+Movie,Comedy,1996,PG,3,Seasons,South Korea
+Movie,Documentary,1965,R,3,Seasons,Japan
+Movie,Romance,1982,PG-13,3,Seasons,India
+TV Show,Sci-Fi,2020,R,73,min,South Korea
+TV Show,Comedy,2011,PG-13,1,Seasons,United Kingdom
+TV Show,Action,2009,R,74,min,Japan
+Movie,Documentary,1972,G,102,min,Canada
+TV Show,Romance,1977,PG-13,143,min,India
+Movie,Comedy,1983,R,3,Seasons,Australia
+Movie,Thriller,1952,TV-14,77,min,Japan
+TV Show,Documentary,2018,PG-13,66,min,South Korea
+Movie,Drama,1963,TV-14,141,min,Japan
+Movie,Action,1981,PG,166,min,Canada
+Movie,Sci-Fi,2008,R,169,min,Canada
+Movie,Action,1991,TV-PG,3,Seasons,United States
+Movie,Sci-Fi,1953,TV-PG,1,Seasons,India
+TV Show,Drama,2011,PG-13,63,min,Japan
+TV Show,Horror,1997,PG-13,145,min,Germany
+Movie,Drama,1983,R,67,min,Canada
+TV Show,Action,1961,TV-14,2,Seasons,Germany
+TV Show,Horror,1975,PG-13,3,Seasons,Germany
+Movie,Drama,1988,PG,61,min,Canada
+Movie,Documentary,1957,PG,113,min,Japan
+Movie,Romance,1982,TV-14,3,Seasons,Japan
+TV Show,Romance,1973,TV-MA,121,min,United States
+TV Show,Sci-Fi,1976,PG,168,min,Japan
+TV Show,Documentary,2005,PG,106,min,Japan
+Movie,Thriller,1960,TV-PG,3,Seasons,Germany
+TV Show,Action,1955,TV-MA,134,min,South Korea
+Movie,Action,1987,TV-14,1,Seasons,United States
+TV Show,Romance,1957,PG-13,165,min,United Kingdom
+Movie,Horror,1996,R,1,Seasons,Canada
+Movie,Romance,1961,G,107,min,South Korea
+Movie,Romance,2012,PG-13,112,min,Japan
+TV Show,Comedy,1959,R,1,Seasons,United Kingdom
+TV Show,Horror,1983,R,124,min,Australia
+Movie,Sci-Fi,2020,PG,137,min,Germany
+TV Show,Romance,1995,TV-14,132,min,Germany
+Movie,Drama,1995,TV-MA,1,Seasons,United States
+TV Show,Romance,1998,TV-MA,127,min,India
+Movie,Sci-Fi,1954,PG-13,63,min,Germany
+TV Show,Romance,1955,G,132,min,Australia
+Movie,Thriller,2020,TV-PG,2,Seasons,United States
+Movie,Romance,1987,R,2,Seasons,Canada
+TV Show,Comedy,1980,G,75,min,India
+Movie,Thriller,1952,TV-MA,3,Seasons,United Kingdom
+Movie,Action,1983,TV-14,2,Seasons,United Kingdom
+Movie,Documentary,1979,R,2,Seasons,India
+TV Show,Drama,1987,TV-14,180,min,South Korea
+TV Show,Documentary,1975,TV-PG,3,Seasons,Japan
+Movie,Romance,1973,TV-14,2,Seasons,Australia
+Movie,Drama,1978,TV-PG,146,min,South Korea
+Movie,Action,1955,PG-13,1,Seasons,Canada
+Movie,Romance,2010,TV-14,2,Seasons,India
+TV Show,Documentary,1982,PG,2,Seasons,Japan
+TV Show,Romance,1998,TV-MA,3,Seasons,United States
+TV Show,Horror,2005,TV-14,3,Seasons,Germany
+Movie,Comedy,1956,TV-PG,2,Seasons,South Korea
+TV Show,Documentary,1950,PG,69,min,India
+Movie,Romance,2002,TV-MA,82,min,Germany
+Movie,Romance,2006,TV-PG,130,min,United Kingdom
+Movie,Comedy,1950,TV-PG,160,min,Germany
+TV Show,Thriller,1993,R,148,min,Australia
+TV Show,Sci-Fi,1996,R,142,min,India
+TV Show,Horror,2001,TV-MA,144,min,Canada
+Movie,Romance,1973,TV-PG,173,min,India
+TV Show,Comedy,2018,R,2,Seasons,Australia
+Movie,Action,1998,PG,3,Seasons,United Kingdom
+TV Show,Comedy,2014,PG-13,3,Seasons,United States
+Movie,Action,1968,R,81,min,United States
+TV Show,Documentary,2007,TV-PG,1,Seasons,India
+Movie,Romance,1983,PG,1,Seasons,Australia
+Movie,Romance,1972,TV-PG,177,min,Germany
+Movie,Documentary,1950,TV-MA,1,Seasons,United States
+Movie,Thriller,1953,R,85,min,Canada
+Movie,Sci-Fi,2011,G,2,Seasons,Australia
+Movie,Drama,2007,PG,1,Seasons,United States
+TV Show,Action,2016,G,3,Seasons,United Kingdom
+Movie,Thriller,1970,G,90,min,United Kingdom
+TV Show,Action,1956,TV-PG,2,Seasons,United Kingdom
+TV Show,Thriller,2016,TV-14,178,min,India
+Movie,Action,1996,R,94,min,United States
+Movie,Comedy,2000,PG,60,min,South Korea
+Movie,Sci-Fi,1959,R,2,Seasons,United States
+Movie,Romance,1984,TV-14,63,min,Japan
+TV Show,Documentary,2009,G,1,Seasons,Japan
+TV Show,Romance,1958,R,138,min,United States
+Movie,Romance,1973,G,102,min,Germany
+Movie,Action,1970,R,94,min,United States
+Movie,Drama,1974,PG-13,3,Seasons,Japan
+Movie,Romance,2005,PG-13,1,Seasons,Canada
+Movie,Comedy,2021,TV-14,2,Seasons,United States
+Movie,Horror,1984,R,3,Seasons,Australia
+Movie,Documentary,1952,PG-13,118,min,Australia
+TV Show,Romance,1966,R,105,min,Australia
+TV Show,Drama,1990,G,2,Seasons,Australia
+TV Show,Action,1952,PG,1,Seasons,Japan
+TV Show,Action,1982,TV-MA,138,min,South Korea
+Movie,Romance,1997,G,136,min,India
+TV Show,Sci-Fi,2021,TV-PG,1,Seasons,South Korea
+Movie,Action,2000,R,2,Seasons,United States
+TV Show,Romance,2019,R,79,min,United States
+TV Show,Thriller,1983,PG-13,119,min,Australia
+TV Show,Comedy,2010,TV-MA,116,min,South Korea
+Movie,Sci-Fi,1969,PG,3,Seasons,Japan
+TV Show,Thriller,2002,G,3,Seasons,India
+Movie,Drama,1980,TV-14,2,Seasons,India
+Movie,Romance,1981,TV-14,88,min,United Kingdom
+TV Show,Romance,1956,G,119,min,Germany
+Movie,Documentary,2003,TV-14,81,min,South Korea
+Movie,Horror,2000,TV-MA,1,Seasons,Canada
+TV Show,Thriller,1971,R,2,Seasons,Japan
+Movie,Documentary,2004,TV-PG,1,Seasons,Germany
+Movie,Thriller,1977,G,3,Seasons,Canada
+TV Show,Comedy,2019,PG-13,2,Seasons,India
+TV Show,Documentary,1990,R,159,min,South Korea
+TV Show,Documentary,2006,G,3,Seasons,Canada
+TV Show,Drama,1971,TV-14,152,min,United Kingdom
+TV Show,Sci-Fi,1971,TV-MA,81,min,Japan
+Movie,Documentary,2004,TV-14,111,min,Japan
+Movie,Documentary,1988,R,129,min,United States
+Movie,Sci-Fi,1981,TV-MA,89,min,Australia
+TV Show,Sci-Fi,1984,G,88,min,South Korea
+TV Show,Thriller,1952,R,167,min,Germany
+Movie,Thriller,2000,R,3,Seasons,Japan
+TV Show,Horror,2020,PG-13,93,min,United Kingdom
+TV Show,Sci-Fi,2013,G,75,min,India
+Movie,Thriller,1996,PG-13,1,Seasons,United States
+TV Show,Horror,1954,R,3,Seasons,Japan
+Movie,Action,2008,PG,81,min,Canada
+Movie,Comedy,1996,R,2,Seasons,South Korea
+Movie,Sci-Fi,1976,TV-14,98,min,South Korea
+Movie,Comedy,2021,PG-13,2,Seasons,India
+TV Show,Thriller,1988,PG-13,3,Seasons,United States
+Movie,Action,2001,PG,120,min,Australia
+Movie,Romance,1956,G,83,min,Japan
+TV Show,Action,1966,TV-PG,2,Seasons,Germany
+Movie,Sci-Fi,2013,PG,2,Seasons,Australia
+TV Show,Horror,2000,TV-MA,1,Seasons,Canada
+TV Show,Action,1954,TV-PG,127,min,Japan
+TV Show,Horror,2004,R,3,Seasons,South Korea
+TV Show,Documentary,1976,PG-13,2,Seasons,Japan
+TV Show,Sci-Fi,1972,PG,1,Seasons,Germany
+Movie,Action,2014,TV-PG,111,min,Japan
+Movie,Romance,1959,TV-MA,93,min,India
+TV Show,Sci-Fi,1989,TV-PG,2,Seasons,Australia
+TV Show,Sci-Fi,1985,R,104,min,Canada
+Movie,Comedy,2010,TV-MA,177,min,United States
+TV Show,Action,2016,PG-13,2,Seasons,United Kingdom
+Movie,Documentary,1989,TV-MA,165,min,India
+Movie,Comedy,1983,PG,1,Seasons,Japan
+Movie,Drama,2023,PG,66,min,United States
+Movie,Horror,2020,TV-MA,2,Seasons,India
+Movie,Horror,1993,PG-13,61,min,Germany
+Movie,Drama,1951,PG-13,1,Seasons,United Kingdom
+TV Show,Comedy,1955,PG,3,Seasons,Australia
+TV Show,Action,1977,TV-14,145,min,India
+TV Show,Comedy,1964,R,1,Seasons,India
+Movie,Action,1995,TV-MA,161,min,Japan
+Movie,Romance,1963,TV-MA,156,min,Japan
+Movie,Comedy,2003,R,159,min,Canada
+Movie,Horror,2012,G,2,Seasons,Canada
+TV Show,Romance,1994,PG,92,min,South Korea
+TV Show,Action,1978,TV-PG,103,min,Canada
+TV Show,Romance,1965,PG-13,86,min,Australia
+TV Show,Documentary,1974,TV-14,2,Seasons,United Kingdom
+Movie,Drama,2013,PG,155,min,Canada
+TV Show,Sci-Fi,1950,PG,178,min,Germany
+Movie,Action,2002,TV-14,2,Seasons,United States
+Movie,Drama,2011,TV-PG,2,Seasons,India
+TV Show,Comedy,2004,TV-PG,77,min,Germany
+Movie,Sci-Fi,1973,TV-MA,1,Seasons,Australia
+TV Show,Drama,1967,PG,1,Seasons,United Kingdom
+TV Show,Sci-Fi,2012,PG-13,90,min,South Korea
+TV Show,Documentary,1991,TV-MA,166,min,South Korea
+Movie,Action,1977,TV-14,125,min,United Kingdom
+Movie,Documentary,2021,G,1,Seasons,Australia
+TV Show,Thriller,1997,G,80,min,Japan
+Movie,Thriller,1971,PG,175,min,Japan
+Movie,Horror,1993,PG-13,97,min,Canada
+TV Show,Action,1966,TV-MA,2,Seasons,Canada
+TV Show,Horror,2009,PG,151,min,India
+TV Show,Drama,1965,TV-MA,68,min,Australia
+TV Show,Comedy,1954,PG-13,2,Seasons,Germany
+TV Show,Documentary,1961,PG-13,2,Seasons,Germany
+TV Show,Comedy,1996,R,95,min,Germany
+Movie,Sci-Fi,1993,TV-14,3,Seasons,Australia
+TV Show,Action,2006,PG-13,1,Seasons,United Kingdom
+TV Show,Documentary,1956,TV-MA,1,Seasons,Japan
+Movie,Thriller,2021,TV-PG,1,Seasons,Canada
+Movie,Romance,2010,G,3,Seasons,Canada
+TV Show,Drama,2015,TV-14,130,min,United States
+TV Show,Action,1997,TV-14,2,Seasons,Germany
+TV Show,Romance,1996,PG-13,3,Seasons,Japan
+Movie,Horror,1955,G,153,min,Japan
+Movie,Thriller,1994,TV-MA,160,min,Germany
+TV Show,Action,1954,TV-14,109,min,Germany
+TV Show,Documentary,2022,TV-MA,111,min,Germany
+Movie,Thriller,1982,G,109,min,India
+TV Show,Thriller,1993,TV-14,80,min,India
+TV Show,Comedy,1990,PG,2,Seasons,South Korea
+TV Show,Action,2023,R,164,min,India
+Movie,Romance,1987,TV-PG,94,min,India
+TV Show,Comedy,1979,PG,1,Seasons,United States
+TV Show,Thriller,2007,G,1,Seasons,Germany
+Movie,Horror,1965,PG-13,97,min,India
+Movie,Action,1999,PG-13,85,min,United States
+Movie,Sci-Fi,1986,TV-14,2,Seasons,Australia
+TV Show,Comedy,1980,TV-MA,2,Seasons,United Kingdom
+Movie,Drama,2017,TV-14,154,min,South Korea
+Movie,Documentary,1996,TV-PG,3,Seasons,United Kingdom
+Movie,Romance,2005,TV-14,150,min,Canada
+Movie,Documentary,1986,PG,3,Seasons,South Korea
+TV Show,Documentary,2018,TV-14,136,min,Japan
+TV Show,Action,1959,G,2,Seasons,South Korea
+Movie,Action,2003,TV-MA,1,Seasons,South Korea
+TV Show,Drama,2013,TV-14,1,Seasons,Japan
+TV Show,Thriller,1996,PG-13,161,min,Canada
+Movie,Romance,2005,PG,3,Seasons,India
+Movie,Sci-Fi,2016,TV-14,141,min,Australia
+Movie,Horror,2002,TV-PG,1,Seasons,India
+Movie,Documentary,2021,R,108,min,United States
+Movie,Horror,2006,PG,163,min,United Kingdom
+TV Show,Action,1996,TV-MA,159,min,Australia
+TV Show,Horror,1950,PG-13,3,Seasons,United States
+TV Show,Sci-Fi,1979,PG,3,Seasons,United States
+TV Show,Romance,1966,PG-13,91,min,Japan
+Movie,Action,1985,G,180,min,Japan
+Movie,Documentary,1994,TV-PG,1,Seasons,India
+TV Show,Drama,1990,TV-14,85,min,Australia
+TV Show,Sci-Fi,1956,TV-PG,2,Seasons,India
+TV Show,Thriller,2004,R,99,min,Australia
+TV Show,Thriller,1951,PG-13,167,min,Canada
+TV Show,Drama,1960,PG-13,67,min,Canada
+Movie,Thriller,1961,TV-14,3,Seasons,India
+TV Show,Documentary,1970,R,3,Seasons,United Kingdom
+Movie,Sci-Fi,2022,TV-14,1,Seasons,United States
+TV Show,Comedy,2013,G,1,Seasons,Canada
+Movie,Comedy,2022,TV-PG,1,Seasons,Canada
+Movie,Thriller,1999,G,3,Seasons,United Kingdom
+Movie,Sci-Fi,2004,PG-13,1,Seasons,India
+TV Show,Thriller,2002,TV-MA,3,Seasons,Japan
+Movie,Sci-Fi,1980,PG,167,min,Canada
+Movie,Documentary,1996,TV-14,180,min,United Kingdom
+TV Show,Documentary,1956,TV-PG,3,Seasons,Japan
+TV Show,Action,1978,G,126,min,United Kingdom
+TV Show,Sci-Fi,2021,TV-MA,1,Seasons,Australia
+Movie,Horror,1972,TV-14,155,min,United States
+Movie,Horror,2008,R,121,min,United Kingdom
+TV Show,Drama,2019,PG,1,Seasons,United Kingdom
+Movie,Documentary,2022,PG-13,3,Seasons,Canada
+Movie,Horror,1960,TV-PG,76,min,Japan
+Movie,Sci-Fi,1993,R,1,Seasons,Australia
+TV Show,Action,2008,R,125,min,Australia
+TV Show,Sci-Fi,1958,PG,154,min,Canada
+TV Show,Thriller,2022,R,178,min,Germany
+Movie,Documentary,2022,G,99,min,Australia
+Movie,Thriller,1988,TV-PG,1,Seasons,United States
+Movie,Sci-Fi,2018,G,87,min,United Kingdom
+Movie,Romance,2000,TV-14,1,Seasons,United States
+Movie,Comedy,1971,TV-PG,3,Seasons,Germany
+Movie,Action,1952,TV-MA,106,min,United States
+TV Show,Comedy,1973,G,132,min,Japan
+TV Show,Documentary,1994,TV-MA,162,min,Canada
+Movie,Horror,1964,TV-14,98,min,United Kingdom
+TV Show,Thriller,1964,TV-14,2,Seasons,Germany
+Movie,Action,2023,G,2,Seasons,South Korea
+Movie,Sci-Fi,1992,TV-PG,2,Seasons,Australia
+Movie,Sci-Fi,2021,TV-PG,136,min,Japan
+TV Show,Horror,1970,R,3,Seasons,Germany
+TV Show,Romance,1998,TV-14,111,min,Australia
+Movie,Action,1989,TV-PG,1,Seasons,United Kingdom
+Movie,Comedy,1953,R,3,Seasons,Canada
+TV Show,Romance,2004,TV-MA,1,Seasons,Japan
+Movie,Documentary,1984,G,1,Seasons,United States
+TV Show,Sci-Fi,1992,TV-MA,3,Seasons,South Korea
+TV Show,Horror,2008,TV-14,3,Seasons,Canada
+Movie,Thriller,2000,PG,82,min,India
+TV Show,Thriller,1992,TV-PG,77,min,Germany
+Movie,Horror,2013,PG-13,179,min,India
+TV Show,Drama,1979,PG,3,Seasons,Canada
+TV Show,Horror,1982,TV-PG,136,min,Japan
+Movie,Comedy,1981,G,1,Seasons,United States
+TV Show,Documentary,1959,TV-PG,3,Seasons,United States
+Movie,Documentary,1998,TV-14,3,Seasons,Canada
+TV Show,Romance,1989,PG,171,min,Australia
+TV Show,Horror,1983,PG-13,2,Seasons,Japan
+TV Show,Action,1989,PG,161,min,Canada
+TV Show,Horror,1957,TV-PG,2,Seasons,India
+TV Show,Romance,1964,G,3,Seasons,United States
+Movie,Action,1977,TV-PG,1,Seasons,Canada
+TV Show,Action,1974,TV-MA,122,min,Japan
+Movie,Comedy,1995,PG,2,Seasons,United Kingdom
+TV Show,Horror,1976,R,3,Seasons,United States
+TV Show,Documentary,2015,R,80,min,United Kingdom
+TV Show,Documentary,1974,PG,2,Seasons,Japan
+TV Show,Drama,1960,TV-PG,155,min,United States
+TV Show,Comedy,1950,TV-14,3,Seasons,United Kingdom
+TV Show,Horror,2006,PG,83,min,Canada
+Movie,Comedy,2004,PG,85,min,Japan
+Movie,Thriller,1956,TV-14,3,Seasons,United States
+TV Show,Documentary,1995,PG,148,min,Canada
+TV Show,Horror,1990,PG-13,127,min,Australia
+Movie,Sci-Fi,1978,G,92,min,India
+TV Show,Action,1999,PG,177,min,Germany
+TV Show,Horror,1958,PG-13,100,min,Germany
+TV Show,Documentary,1958,TV-MA,1,Seasons,United States
+TV Show,Horror,1961,G,3,Seasons,Germany
+TV Show,Thriller,1987,R,106,min,United Kingdom
+TV Show,Horror,1982,PG-13,2,Seasons,South Korea
+TV Show,Comedy,1978,TV-PG,129,min,Canada
+TV Show,Sci-Fi,1980,TV-MA,62,min,Germany
+Movie,Drama,2006,PG,158,min,Australia
+TV Show,Documentary,1997,PG-13,3,Seasons,South Korea
+TV Show,Documentary,2005,R,1,Seasons,United Kingdom
+Movie,Drama,1974,R,89,min,United Kingdom
+Movie,Horror,1967,PG,179,min,Australia
+Movie,Romance,1951,R,105,min,Canada
+TV Show,Drama,1984,TV-MA,106,min,Japan
+TV Show,Comedy,2017,PG,3,Seasons,India
+Movie,Sci-Fi,2000,TV-PG,3,Seasons,South Korea
+Movie,Drama,1979,TV-14,129,min,Germany
+Movie,Horror,1995,PG-13,102,min,Japan
+TV Show,Romance,1976,PG-13,64,min,United Kingdom
+Movie,Documentary,1994,PG,160,min,Canada
+TV Show,Drama,1978,PG,2,Seasons,Japan
+TV Show,Horror,1960,R,176,min,Japan
+Movie,Sci-Fi,2019,PG-13,3,Seasons,South Korea
+TV Show,Comedy,1958,TV-MA,62,min,Canada
+TV Show,Drama,1995,TV-MA,156,min,United States
+Movie,Action,2012,TV-MA,3,Seasons,Canada
+Movie,Sci-Fi,2023,TV-PG,1,Seasons,Germany
+TV Show,Thriller,1954,TV-14,1,Seasons,Japan
+Movie,Romance,2007,PG,2,Seasons,United Kingdom
+Movie,Drama,1999,TV-14,1,Seasons,Australia
+TV Show,Sci-Fi,1989,TV-MA,140,min,Canada
+TV Show,Comedy,1997,G,140,min,India
+Movie,Comedy,1982,TV-14,3,Seasons,South Korea
+Movie,Comedy,1978,TV-MA,1,Seasons,Canada
+Movie,Documentary,1985,TV-PG,3,Seasons,Germany
+TV Show,Romance,1973,R,1,Seasons,Canada
+Movie,Thriller,1997,TV-14,174,min,Japan
+TV Show,Comedy,1971,PG,131,min,Japan
+Movie,Romance,1988,G,141,min,United Kingdom
+TV Show,Comedy,2010,TV-14,137,min,Japan
+Movie,Documentary,2004,PG,153,min,Germany
+Movie,Documentary,1960,PG-13,102,min,South Korea
+TV Show,Drama,2017,PG-13,2,Seasons,Japan
+TV Show,Comedy,1968,TV-MA,76,min,India
+Movie,Sci-Fi,1992,TV-14,1,Seasons,Australia
+TV Show,Documentary,1959,TV-PG,160,min,India
+Movie,Thriller,2002,TV-MA,3,Seasons,Germany
+Movie,Drama,1960,TV-PG,3,Seasons,United Kingdom
+TV Show,Sci-Fi,2011,TV-MA,2,Seasons,United Kingdom
+Movie,Sci-Fi,1983,TV-PG,71,min,United Kingdom
+Movie,Action,1954,TV-MA,3,Seasons,Japan
+TV Show,Sci-Fi,1950,TV-14,3,Seasons,United Kingdom
+TV Show,Action,2003,G,148,min,United States
+TV Show,Drama,2010,PG-13,125,min,Germany
+Movie,Action,1994,R,3,Seasons,United States
+TV Show,Horror,1980,R,126,min,Germany
+TV Show,Action,2011,R,148,min,South Korea
+TV Show,Action,1963,G,113,min,India
+Movie,Sci-Fi,2015,G,146,min,Germany
+Movie,Drama,1974,TV-PG,2,Seasons,United States
+Movie,Thriller,1968,R,3,Seasons,United Kingdom
+Movie,Comedy,2010,TV-14,97,min,United States
+Movie,Horror,1982,TV-PG,79,min,Japan
+Movie,Thriller,1975,PG-13,126,min,India
+Movie,Comedy,1990,PG,153,min,Australia
+TV Show,Romance,1952,TV-MA,1,Seasons,India
+TV Show,Sci-Fi,1950,R,160,min,India
+TV Show,Documentary,2012,TV-14,2,Seasons,Japan
+Movie,Sci-Fi,2016,PG-13,135,min,United States
+Movie,Horror,1980,G,119,min,Japan
+Movie,Romance,1967,G,1,Seasons,India
+Movie,Horror,1982,PG,114,min,Canada
+Movie,Romance,1967,PG-13,94,min,Canada
+TV Show,Comedy,2005,G,3,Seasons,Canada
+TV Show,Horror,2004,TV-PG,101,min,United Kingdom
+Movie,Action,1950,TV-14,2,Seasons,United States
+TV Show,Horror,1982,TV-MA,138,min,South Korea
+Movie,Sci-Fi,2019,PG-13,1,Seasons,India
+Movie,Drama,2009,PG,1,Seasons,India
+Movie,Thriller,2014,TV-PG,119,min,South Korea
+Movie,Action,1965,TV-PG,3,Seasons,United Kingdom
+Movie,Drama,1971,R,73,min,United Kingdom
+TV Show,Horror,1952,TV-MA,2,Seasons,United Kingdom
+Movie,Horror,1960,PG,3,Seasons,Canada
+Movie,Comedy,1969,TV-PG,1,Seasons,South Korea
+TV Show,Horror,1957,R,168,min,South Korea
+Movie,Thriller,2007,TV-PG,75,min,Germany
+Movie,Drama,2019,G,2,Seasons,Germany
+TV Show,Action,1993,R,3,Seasons,Canada
+Movie,Drama,1966,PG-13,1,Seasons,Germany
+TV Show,Thriller,2015,PG,2,Seasons,United States
